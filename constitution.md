@@ -1,10 +1,6 @@
 # University of Windsor Computer Science Society
 
-<<<<<<< HEAD
-## SOCIETY CONSTITUTION
-=======
 ## Constitution
->>>>>>> e0587cf26eec7898dcaecc674c8456ba7210531d
 
 ### Article 1.
 
@@ -51,6 +47,7 @@ The society's Executive Positions shall consist of the following positions:
 9. First Year Representative (2)
 10. Second Year Representative
 11. Senior Representative
+12. Secretary
 
 #### Section 2 - Term
 
@@ -204,15 +201,18 @@ Executive at an executive meeting.
 
 The first year representative, and any positions not elected in the
 annual election (including positions temporarily held), shall be elected
-during the first month of the fall semester. The elected positions shall
-be the President, VP Communications, VP External, VP Academic, VP
-Finance, First Year representative, Second Year representative, and
-Senior representative.
+during the first month of the fall semester. 
+
+The elected positions shall be all positions except **Head of Technology** and **Secretary**.
+
+The **exective** positions are restricted to individuals who have served at least one year on the Computer Science Society previously.
 
 In the event of no new executive being elected, a group of Computer
 Science students may petition the UWSA VP Administration to represent
 the Computer Science Society on a temporary basis subject to election in
 the first month of the fall semester.
+
+
 
 #### Section 2 - Removal of Executive or Council Member
 
