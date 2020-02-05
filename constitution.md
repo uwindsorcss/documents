@@ -190,23 +190,18 @@ _**Note:** In the event the **member** in question is the **Presedent**, the **V
 
 #### Section 3 - Meeting to Remove an Executive or Council Member
 
-An executive meeting shall be called to determine whether an executive
-will continue to hold their position.
+An **Executive** meeting shall be called to determine whether a **member**
+shall continue to retain their position.
 
-At least one-week notice shall be given before the meeting. The
-executive in question will be given an opportunity to address any issues
+- At least _one-week_ notice shall be given before the meeting. The
+**member** in question will be given an opportunity to address any issues
 and concerns raised, answer any questions as well as provide reasons why
 they should continue to hold their position.
-
-Voting shall take place by secret ballot.
-
-Quorum for the meeting shall be two thirds rounded up of the executive,
-not including the accused.
-
-If quorum is not met, or in the event that a two-thirds vote is
+- Voting shall take place by secret ballot.
+- Quorum for the meeting shall be all of the **executives**, not including the accused.
+- If quorum is not met, or in the event that a **two-thirds vote** is
 not obtained, the individual shall retain their position.
-
-No minutes shall be published for this meeting, beyond the immediate
+- No minutes shall be published for this meeting, beyond the immediate
 result.
 
 #### Section 4 - Constitutional Amendments
