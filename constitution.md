@@ -82,12 +82,18 @@ The **Vice-President Communications** shall:
 The **Head of Events** shall:
 1. Report to the Vice President
 2. Be responsible for brainstorming events for the benfit of the social and academic life of students.
-3. Manage the entire events team by passing information to the organizer to schedule certain events, and coordinating with Event Coordinators to ensure at least one is attending each event.
-3. Be the final say in which events we will host and create polls if we want the students to decide which events they want.
+3. Manage the entire events team by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
+4. Be the final say in which events we will host and create polls if we want the students to decide which events they want.
 
 The **Event Organizer** shall:
 1. Report to the Head of Events.
 2. Be responsible for communicating with venues to organize, schedule, and gather pricing events.
+
+The **Event Coordinator(s)** shall:
+1. Report to the Head of Events
+2. Be responsible for attending events and help manage the events while they are happening.
+3. Be in constant communication with the Head of Events to help arrange and organize the events, as well as organizing the payment method in an organized fashion.
+4. Be responsible for photographing or recording events to post on social media and share the photographs/videos with the Social Media Coordinator.
 
 The **Vice-President Societal Development** shall:
 1. Be responsible for planning and executing strategies to grow the Computer Science Society.
@@ -99,10 +105,6 @@ The **Developer** shall:
 2. Be responsible for development, debugging, implementation of changes, and maintenance of the renovated Computer Science Society website.
 3. Be responsible for creation of problems and challenges for Problem of the Week (POTW).
 4. Be responsible for the maintenance of the CS Discord channel.
-
-The **Event Coordinator(s)** shall:
-1. Be responsible for scheduling, organizing and attending regular social events.
-2. Be in communication with the VP External to help arrange and organize the events, as well as organizing the payment method in an organized fashion.
 
 The **First Year Representative** shall:
 1. Be responsible for representing the views and concerns of first year students to the executives.
