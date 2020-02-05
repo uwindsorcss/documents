@@ -28,24 +28,24 @@ covered by part a, may purchase a membership for **$10 per semester**.
 
 ##### Section 1.1 - Executive Positions
 
-The society's Executive Positions shall consist of the following thirteen
-positions:
+The society's Executive Positions shall consist of the following positions:
 
 1. President
 2. Vice President
-3. Treasureer
+3. Treasurer
 
 ##### Section 1.2 - Council Positions
 
-1. Vice-President External
-2. Vice-President of Societal Development
-3. Developer
-4. Event Coordinator (2)
-5. First Year Representative (2)
-6. Second Year Representative
-7. Senior Representative
-8. Secretary
-9. Vice-President Communications
+1. Head of Events
+2. Event Organizer
+3. Event Coordinator (3)
+4. Head of Societal Development
+5. Merchandising Coordinator
+6. Social Media Coordinator
+7. Head of Technology
+8. Head of Career Services
+9. First Year Representative (2)
+10. Second Year Representative
 
 #### Section 2 - Term
 
