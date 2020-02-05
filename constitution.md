@@ -47,6 +47,7 @@ The society's Executive Positions shall consist of the following positions:
 9. First Year Representative (2)
 10. Second Year Representative
 11. Senior Representative
+12. Secretary
 
 #### Section 2 - Term
 
@@ -200,54 +201,43 @@ Executive at an executive meeting.
 
 The first year representative, and any positions not elected in the
 annual election (including positions temporarily held), shall be elected
-during the first month of the fall semester. The elected positions shall
-be the President, VP Communications, VP External, VP Academic, VP
-Finance, First Year representative, Second Year representative, and
-Senior representative.
+during the first month of the fall semester. 
+
+The elected positions shall be all positions except **Head of Technology** and **Secretary**.
+
+The **exective** positions are restricted to individuals who have served at least one year on the Computer Science Society previously.
 
 In the event of no new executive being elected, a group of Computer
 Science students may petition the UWSA VP Administration to represent
 the Computer Science Society on a temporary basis subject to election in
 the first month of the fall semester.
 
-#### Section 2 - Removal of an Executive Officer
 
-In the event that an executive member is not fulfilling their
-responsibilities, the following procedure shall take place:
 
-The President will meet with the executive, to discuss concerns raised
-by the membership.
+#### Section 2 - Removal of Executive or Council Member
 
-After one week, if the executive member is still not found to be
-fulfilling their responsibilities, the President shall issue a written
-warning.
+In the event that a **member** is not fulfilling their responsibilities, the following procedure shall take place:
 
-After an additional week, if the executive member is still not found to
-be fulfilling their responsibilities, a meeting will be called to
-determine whether the individual will retain their position.
+1.  The **President** will meet with the **member** to discuss concerns raised by the membership.
+2. If, after one week, the **member** is still not found to be fulfilling their responsibilities, the **President** shall issue a written warning.
+3. After an additional week, if the **member** is still not found to be fulfilling their responsibilities, a meeting will be called to determine whether the individual will retain their position.
 
-In the event that the executive in question is the President, the VP
-Academic will conduct the above procedure.
+_**Note:** In the event the **member** in question is the **President**, the **Vice President** will conduct the above procedure._
 
-#### Section 3 - Meeting to Remove an Executive Officer
+#### Section 3 - Meeting to Remove an Executive or Council Member
 
-An executive meeting shall be called to determine whether an executive
-will continue to hold their position.
+An **Executive** meeting shall be called to determine whether a **member**
+shall continue to retain their position.
 
-At least one-week notice shall be given before the meeting. The
-executive in question will be given an opportunity to address any issues
+- At least _one-week_ notice shall be given before the meeting. The
+**member** in question will be given an opportunity to address any issues
 and concerns raised, answer any questions as well as provide reasons why
 they should continue to hold their position.
-
-Voting shall take place by secret ballot.
-
-Quorum for the meeting shall be two thirds rounded up of the executive,
-not including the accused.
-
-If quorum is not met, or in the event that a two-thirds vote is
+- Voting shall take place by secret ballot.
+- Quorum for the meeting shall be all of the **executives**, not including the accused.
+- If quorum is not met, or in the event that a **two-thirds vote** is
 not obtained, the individual shall retain their position.
-
-No minutes shall be published for this meeting, beyond the immediate
+- No minutes shall be published for this meeting, beyond the immediate
 result.
 
 #### Section 4 - Constitutional Amendments
