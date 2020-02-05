@@ -56,33 +56,30 @@ The Executive shall take office on May 1st, for a 12-month term.
 The **President** shall:
 1. Preside over all meetings.
 2. Represent the society in its relations with other organizations and individuals or assign a designee in his/her place.
-3. Direct the activities of the executive.
+3. Direct the activities of the executives and council members.
 4. Submit a report to the incoming executive detailing the activities  of the previous year.
 5. Be an ex-officio member on all committees of the society.
 
 The **Vice President** shall:
-1. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
-2. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
-3. Be responsible for managing student experience heads (i.e. Head of Technology, Head of Career Services, and Head of Events).
+1. Report to the President
+2. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
+3. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
+4. Be responsible for managing student experience heads (i.e. Head of Technology, Head of Career Services, and Head of Events).
 
 The **Treasurer** shall:
-1. Be responsible for all society finances including possession of society bank card.
-2. Collect and keep record of voluntary membership dues.
-3. Ensure society records reflect the accurate financial position of the society at all times.
-4. Event costs shall be subject to audit by the membership.
-5. Submit an annual report detailing the society's budget for the past year.
-6. Review the financial records with members of the executive at least once a semester.
-7. Be responsible for overseeing the societal development team (i.e. Head of Societal Development)
-
-The **Social Media Coordinator** shall:
-1. Be responsible for marketing any society activities and events through our social media channels (e.g. Instagram, Facebook)
-2. Be responsible for marketing other CSS/CS related items to the social media channels.
-3. Be responsible for posting photos/videos from events to social media channels including the CSS website and Discord.
+1. Report to the President
+2. Be responsible for all society finances including possession of society bank card.
+3. Collect and keep record of voluntary membership dues.
+4. Ensure society records reflect the accurate financial position of the society at all times.
+5. Event costs shall be subject to audit by the membership.
+6. Submit an annual report detailing the society's budget for the past year.
+7. Review the financial records with members of the executive at least once a semester.
+8. Be responsible for overseeing the societal development team (i.e. Head of Societal Development)
 
 The **Head of Events** shall:
 1. Report to the Vice President
 2. Be responsible for brainstorming events for the benfit of the social and academic life of students.
-3. Manage the entire events team by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
+3. Manage the entire events team (i.e. Event Coordinators and Event Organizer) by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
 4. Be the final say in which events we will host and create polls if we want the students to decide which events they want.
 
 The **Event Organizer** shall:
@@ -101,6 +98,12 @@ The **Head of Societal Development** shall:
 3. Be responsible for planning and executing strategies to grow the Computer Science Society.
 4. Be responsible for increasing our income by means of fundraising and promotion.
 5. Be responsible for growing society presence on campus by means of marketing, social media and promoting events.
+
+The **Social Media Coordinator** shall:
+1. Report to the Head of Societal Development.
+2. Be responsible for marketing any society activities and events through our social media channels (e.g. Instagram, Facebook)
+3. Be responsible for marketing other CSS/CS related items to the social media channels.
+4. Be responsible for posting photos/videos from events to social media channels including the CSS website and Discord.
 
 The **Merchandising Coordinator** shall:
 1. Report to the Head of Societal Development
@@ -121,24 +124,28 @@ The **Head of Career Services** shall:
 3. Host workshops related to internships and co-op, resume workshops, etc.
 
 The **First Year Representative(s)** shall:
-1. Be responsible for representing the views and concerns of first year students to the executives.
-2. Be responsible for representing the executive to all first year members of the Society.
-3. Be responsible for making announcements at the beginning of first year lectures to make members aware of society events.
+1. Report to the executives
+2. Be responsible for representing the views and concerns of first year students to the executives.
+3. Be responsible for representing the executive to all first year members of the Society.
+4. Be responsible for making announcements at the beginning of first year lectures to make members aware of society events.
 
 The **Second Year Representative** shall:
-1. Be responsible for representing the views and concerns of second  year students to the executive.
-2. Be responsible for representing the executive to second year members of the Society.
-3. Be responsible for making announcements at the beginning of second year lectures to make members aware of society events.
+1. Report to the executives
+2. Be responsible for representing the views and concerns of second  year students to the executive.
+3. Be responsible for representing the executive to second year members of the Society.
+4. Be responsible for making announcements at the beginning of second year lectures to make members aware of society events.
 
 The **Senior Years Representative** shall:
-1. Be responsible for representing the views and concerns of third and  fourth year students to the executive.
-2. Be responsible for representing the executive to all third and fourth year members of the Society.
-3. Be responsible for making announcements at the beginning of third and fourth year lectures to make members aware of society events.
+1. Report to the executives
+2. Be responsible for representing the views and concerns of third and  fourth year students to the executive.
+3. Be responsible for representing the executive to all third and fourth year members of the Society.
+4. Be responsible for making announcements at the beginning of third and fourth year lectures to make members aware of society events.
 
 The **Secretary** shall:
-1. Be appointed by the president and ratified by the remaining executive at the first regular meeting and from the membership of the society.
-2. Be responsible for scheduling meetings by determining the best time for members, the location, and sending calendar invites.
-3. Be responsible for taking notes during meetings.
+1. Report to the executives
+2. Be appointed by the president and ratified by the remaining executive at the first regular meeting and from the membership of the society.
+3. Be responsible for scheduling meetings by determining the best time for members, the location, and sending calendar invites.
+4. Be responsible for taking notes during meetings.
 
 ### Article 3.
 
