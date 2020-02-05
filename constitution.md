@@ -1,1 +1,267 @@
-Replace this with our fine constitution
+# University of Windsor Computer Science Society
+
+## Constitution
+
+**Created: 2013-2014 JEREMY HIGH --- PRESIDENT**
+
+**WILL ROEDER → VICE PRESIDENT**
+
+**JOHN LAM --- TREASURER**
+
+**Revised: 2018-2019**
+
+**JOEL RORSETH --- PRESIDENT**\
+**ERIC PICKUP → VICE PRESIDENT**\
+**OKSANA NECIO --- TREASURER**
+
+## SOCIETY CONSTITUTION
+
+### Article 1.
+
+#### Section 1 - Name
+
+The name of this organization shall be the Computer Science Society.
+
+#### Section 2 - Purpose
+
+The objective of the society shall be to promote an interest in Computer
+Science and to enhance the lives of computer science students on campus.
+
+#### Section 3 - Membership
+
+Society Membership shall consist of:
+1. All students who are currently enrolled on a full time basis at the
+University of Windsor majoring in a program offered by the department of
+Computer Science.
+2. Any student at the University of Windsor, who is not otherwise
+covered by part a, may purchase a membership for **$10 per semester**.
+
+### Article 2.
+
+#### Section 1 - Executive Officers
+
+The society's Executive Officers shall consist of the following thirteen
+positions:
+
+1. President
+2. Vice-President Communications
+3. Vice-President External
+4. Vice-President Academic
+5. Vice-President Finance
+6. Vice-President of Societal Development
+7. Developer
+8. Event Coordinator
+9. Event Coordinator
+10. First Year Representative
+11. Second Year Representative
+12. Senior Representative
+13. Secretary
+
+#### Section 2 - Term
+
+The Executive shall take office on May 1st, for a 12-month term.
+
+#### Duties of the Executive
+
+The **President** shall:
+1. Preside over all meetings.
+2. Represent the society in its relations with other organizations and individuals or assign a designee in his/her place.
+3. Direct the activities of the executive.
+4. Submit a report to the incoming executive detailing the activities  of the previous year.
+5. Be an ex-officio member on all committees of the society.
+
+The **Vice-President Communications** shall:
+1. Be responsible for marketing any society activities and events including posting to Blackboard, CS Discord server, and Facebook Comp Sci Kool Kats. Excluding any development work.
+2. Be responsible for managing CSS email account.
+3. Encourage society involvement in the community and on campus.
+
+The **Vice-President External** shall:
+1. Ensure ongoing communication between the executive and the society members.
+2. Help coordinate all events and meetings.
+3. Organize events that will benefit the social life of student members.
+4. Encourage society involvement in the community and on campus.
+
+The **Vice-President Academic** shall:
+1. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
+2. Develop and implement initiatives of an academic nature to enhance the quality of education offered to all computer science students.
+3. Be responsible for the promotion of all career and educational related events including recruitment.
+3. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
+4. Be responsible for organizing and hosting the annual Internship Workshop series.
+
+The **Vice President Finance** shall:
+1. Be responsible for all society finances including possession of society bank card.
+2. Collect and keep record of voluntary membership dues.
+3. Ensure society records reflect the accurate financial position of the society at all times.
+4. Event costs shall be subject to audit by the membership.
+5. Submit an annual report detailing the society's budget for the past year.
+6. Review the financial records with members of the executive at least once a semester.
+
+The **Vice-President Societal Development** shall:
+1. Be responsible for planning and executing strategies to grow the Computer Science Society.
+2. Be responsible for increasing our income by means of fundraising and promotion.
+3. Be responsible for growing society presence on campus by means of marketing, social media and promoting events.
+
+The **Developer** shall:
+1. Be appointed via interview process, conducted by executive Computer Science Society members.
+2. Be responsible for development, debugging, implementation of changes, and maintenance of the renovated Computer Science Society website.
+3. Be responsible for creation of problems and challenges for Problem of the Week (POTW).
+4. Be responsible for the maintenance of the CS Discord channel.
+
+The **Event Coordinator(s)** shall:
+1. Be responsible for scheduling, organizing and attending regular social events.
+2. Be in communication with the VP External to help arrange and organize the events, as well as organizing the payment method in an organized fashion.
+
+The **First Year Representative** shall:
+1. Be responsible for representing the views and concerns of first year students to the executives.
+2. Be responsible for representing the executive to all first year members of the Society.
+3. Be responsible for making announcements at the beginning of first year lectures to make members aware of society events.
+
+The **Second Year Representative** shall:
+1. Be responsible for representing the views and concerns of second  year students to the executive.
+2. Be responsible for representing the executive to second year members of the Society.
+3. Be responsible for making announcements at the beginning of second year lectures to make members aware of society events.
+
+The **Senior Years Representative** shall:
+1. Be responsible for representing the views and concerns of third and  fourth year students to the executive.
+2. Be responsible for representing the executive to all third and fourth year members of the Society.
+3. Be responsible for making announcements at the beginning of third and fourth year lectures to make members aware of society events.
+
+The **Secretary** shall:
+1. Be appointed by the president and ratified by the remaining executive at the first regular meeting and from the membership of the society.
+2. Be responsible for the recording and publishing of minutes of all meetings.
+
+### Article 3.
+
+#### Section 1 - Regular Meetings
+
+Regular meetings of the society shall be held at least once per semester
+during the academic year.
+
+At least one week's notice with agenda shall be given before all
+meetings. Quorum for regular meetings shall be thirteen members.
+
+#### Section 2 -- Executive Meetings
+
+Executive meetings shall be held as required. At least 48-hours notice
+shall be given before all Executive meetings. Quorum for executive
+meetings shall be 50% rounded up members of the Executive.
+
+#### Section 3 -- General Meeting
+
+The general meeting of the society shall be held annually during the
+month of March, and shall include reports from the outgoing executive,
+any committee reports, the election of executive officers, budget
+presentation, and any new or old business.
+
+At least two weeks notice with agenda shall be given before the meeting,
+stating the time, date and place of the meeting. Quorum for general
+meetings shall be twenty-one (21) members.
+
+#### Section 4 -- Additional Requirements
+
+Any two executives, the president, or three members may call a regular
+meeting. The president or the executive shall determine the date of the
+meeting within one week of the request. If a request has been made
+within the last month, the president can defer a meeting to ensure no
+more than one meeting a month.
+
+The president can, with the agreement of half the executives, disregard
+requests for meetings. A further request of at least ten members can
+override this provision.
+
+### Article 4.
+
+#### Section 1 -- Election of Officers
+
+Elections are to be held annually under the auspices of the University
+of Windsor Students' Alliance (UWSA) where they are capable of carrying
+out said elections. An annual election shall take place in March, with
+offices filled in May. Any positions not filled in the annual election
+may be appointed on a temporary basis by a simple majority of the
+Executive at an executive meeting.
+
+The first year representative, and any positions not elected in the
+annual election (including positions temporarily held), shall be elected
+during the first month of the fall semester. The elected positions shall
+be the President, VP Communications, VP External, VP Academic, VP
+Finance, First Year representative, Second Year representative, and
+Senior representative.
+
+In the event of no new executive being elected, a group of Computer
+Science students may petition the UWSA VP Administration to represent
+the Computer Science Society on a temporary basis subject to election in
+the first month of the fall semester.
+
+#### Section 2 -- Removal of an Executive Officer
+
+In the event that an executive member is not fulfilling their
+responsibilities, the following procedure shall take place:
+
+The President will meet with the executive, to discuss concerns raised
+by the membership.
+
+After one week, if the executive member is still not found to be
+fulfilling their responsibilities, the President shall issue a written
+warning.
+
+After an additional week, if the executive member is still not found to
+be fulfilling their responsibilities, a meeting will be called to
+determine whether the individual will retain their position.
+
+In the event that the executive in question is the President, the VP
+Academic will conduct the above procedure.
+
+#### Section 3 -- Meeting to Remove an Executive Officer
+
+An executive meeting shall be called to determine whether an executive
+will continue to hold their position.
+
+At least one-week notice shall be given before the meeting. The
+executive in question will be given an opportunity to address any issues
+and concerns raised, answer any questions as well as provide reasons why
+they should continue to hold their position.
+
+Voting shall take place by secret ballot.
+
+Quorum for the meeting shall be two thirds rounded up of the executive,
+not including the accused.
+
+If quorum is not met, or in the event that a two-thirds vote is
+not obtained, the individual shall retain their position.
+
+No minutes shall be published for this meeting, beyond the immediate
+result.
+
+#### Section 4 -- Constitutional Amendments
+
+The constitution can be amended at a regular meeting, or a general
+meeting, with a three-fourths majority vote.
+
+Any amendments must be announced one week prior to either meeting.
+
+#### Section 5 - Interpretation of Bylaws
+
+These bylaws are to be interpreted by the Executive.
+
+#### Section 6 - Conflicts with UWSA Policy
+
+Nothing in this instrument shall be read to contradict UWSA rules
+regarding clubs or societies. In the event where a contradiction shall
+occur, the rules of the UWSA shall have precedent.
+
+#### Section 7 - Parliamentary Authority
+
+The rules contained in the current edition of Robert's Rules of Order
+Newly Revised shall govern CSS in all cases to which they are applicable
+and in which they are not inconsistent with these bylaws and any special
+rules of order CSS may adopt.
+
+#### Section 8 -- Resignations
+
+An executive member may resign from their position by submitting a
+written notice to the Executive at least two weeks in advance. The
+President shall be responsible for filling the vacant position, by
+appointment or election, as the President deems necessary.
+
+In the case of the resignation of the President, the position shall be
+filled by the VP Academic until the next election.
