@@ -120,7 +120,7 @@ The **Head of Career Services** shall:
 2. Actively brainstorm workshops, ideas, tools, etc. to improve the careers of our students.
 3. Host workshops related to internships and co-op, resume workshops, etc.
 
-The **First Year Representative** shall:
+The **First Year Representative(s)** shall:
 1. Be responsible for representing the views and concerns of first year students to the executives.
 2. Be responsible for representing the executive to all first year members of the Society.
 3. Be responsible for making announcements at the beginning of first year lectures to make members aware of society events.
@@ -137,7 +137,8 @@ The **Senior Years Representative** shall:
 
 The **Secretary** shall:
 1. Be appointed by the president and ratified by the remaining executive at the first regular meeting and from the membership of the society.
-2. Be responsible for the recording and publishing of minutes of all meetings.
+2. Be responsible for scheduling meetings by determining the best time for members, the location, and sending calendar invites.
+3. Be responsible for taking notes during meetings.
 
 ### Article 3.
 
