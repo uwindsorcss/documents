@@ -140,13 +140,13 @@ during the academic year.
 At least one week's notice with agenda shall be given before all
 meetings. Quorum for regular meetings shall be thirteen members.
 
-#### Section 2 -- Executive Meetings
+#### Section 2 - Executive Meetings
 
 Executive meetings shall be held as required. At least 48-hours notice
 shall be given before all Executive meetings. Quorum for executive
 meetings shall be 50% rounded up members of the Executive.
 
-#### Section 3 -- General Meeting
+#### Section 3 - General Meeting
 
 The general meeting of the society shall be held annually during the
 month of March, and shall include reports from the outgoing executive,
@@ -157,7 +157,7 @@ At least two weeks notice with agenda shall be given before the meeting,
 stating the time, date and place of the meeting. Quorum for general
 meetings shall be twenty-one (21) members.
 
-#### Section 4 -- Additional Requirements
+#### Section 4 - Additional Requirements
 
 Any two executives, the president, or three members may call a regular
 meeting. The president or the executive shall determine the date of the
@@ -171,7 +171,7 @@ override this provision.
 
 ### Article 4.
 
-#### Section 1 -- Election of Officers
+#### Section 1 - Election of Officers
 
 Elections are to be held annually under the auspices of the University
 of Windsor Students' Alliance (UWSA) where they are capable of carrying
@@ -192,7 +192,7 @@ Science students may petition the UWSA VP Administration to represent
 the Computer Science Society on a temporary basis subject to election in
 the first month of the fall semester.
 
-#### Section 2 -- Removal of an Executive Officer
+#### Section 2 - Removal of an Executive Officer
 
 In the event that an executive member is not fulfilling their
 responsibilities, the following procedure shall take place:
@@ -211,7 +211,7 @@ determine whether the individual will retain their position.
 In the event that the executive in question is the President, the VP
 Academic will conduct the above procedure.
 
-#### Section 3 -- Meeting to Remove an Executive Officer
+#### Section 3 - Meeting to Remove an Executive Officer
 
 An executive meeting shall be called to determine whether an executive
 will continue to hold their position.
@@ -232,7 +232,7 @@ not obtained, the individual shall retain their position.
 No minutes shall be published for this meeting, beyond the immediate
 result.
 
-#### Section 4 -- Constitutional Amendments
+#### Section 4 - Constitutional Amendments
 
 The constitution can be amended at a regular meeting, or a general
 meeting, with a three-fourths majority vote.
@@ -256,7 +256,7 @@ Newly Revised shall govern CSS in all cases to which they are applicable
 and in which they are not inconsistent with these bylaws and any special
 rules of order CSS may adopt.
 
-#### Section 8 -- Resignations
+#### Section 8 - Resignations
 
 An executive member may resign from their position by submitting a
 written notice to the Executive at least two weeks in advance. The
