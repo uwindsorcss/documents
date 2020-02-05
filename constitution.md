@@ -79,12 +79,15 @@ The **Vice-President Communications** shall:
 2. Be responsible for managing CSS email account.
 3. Encourage society involvement in the community and on campus.
 
-The **Vice-President External** shall:
-1. Ensure ongoing communication between the executive and the society members.
-2. Help coordinate all events and meetings.
-3. Organize events that will benefit the social life of student members.
-4. Encourage society involvement in the community and on campus.
+The **Head of Events** shall:
+1. Report to the Vice President
+2. Be responsible for brainstorming events for the benfit of the social and academic life of students.
+3. Manage the entire events team by passing information to the organizer to schedule certain events, and coordinating with Event Coordinators to ensure at least one is attending each event.
+3. Be the final say in which events we will host and create polls if we want the students to decide which events they want.
 
+The **Event Organizer** shall:
+1. Report to the Head of Events.
+2. Be responsible for communicating with venues to organize, schedule, and gather pricing events.
 
 The **Vice-President Societal Development** shall:
 1. Be responsible for planning and executing strategies to grow the Computer Science Society.
