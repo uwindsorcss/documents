@@ -1,19 +1,5 @@
 # University of Windsor Computer Science Society
 
-## Constitution
-
-**Created: 2013-2014 JEREMY HIGH --- PRESIDENT**
-
-**WILL ROEDER → VICE PRESIDENT**
-
-**JOHN LAM --- TREASURER**
-
-**Revised: 2018-2019**
-
-**JOEL RORSETH --- PRESIDENT**\
-**ERIC PICKUP → VICE PRESIDENT**\
-**OKSANA NECIO --- TREASURER**
-
 ## SOCIETY CONSTITUTION
 
 ### Article 1.
