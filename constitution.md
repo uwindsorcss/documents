@@ -186,7 +186,7 @@ In the event that a **member** is not fulfilling their responsibilities, the fol
 2. If, after one week, the **member** is still not found to be fulfilling their responsibilities, the **President** shall issue a written warning.
 3. After an additional week, if the **member** is still not found to be fulfilling their responsibilities, a meeting will be called to determine whether the individual will retain their position.
 
-_**Note:** In the event the **member** in question is the **Presedent**, the **Vice President** will conduct the above procedure._
+_**Note:** In the event the **member** in question is the **President**, the **Vice President** will conduct the above procedure._
 
 #### Section 3 - Meeting to Remove an Executive or Council Member
 
