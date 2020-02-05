@@ -65,6 +65,15 @@ The **Vice President** shall:
 2. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
 3. Be responsible for managing student experience heads (i.e. Head of Technology, Head of Career Services, and Head of Events).
 
+The **Treasurer** shall:
+1. Be responsible for all society finances including possession of society bank card.
+2. Collect and keep record of voluntary membership dues.
+3. Ensure society records reflect the accurate financial position of the society at all times.
+4. Event costs shall be subject to audit by the membership.
+5. Submit an annual report detailing the society's budget for the past year.
+6. Review the financial records with members of the executive at least once a semester.
+7. Be responsible for overseeing the societal development team (i.e. Head of Societal Development)
+
 The **Vice-President Communications** shall:
 1. Be responsible for marketing any society activities and events including posting to Blackboard, CS Discord server, and Facebook Comp Sci Kool Kats. Excluding any development work.
 2. Be responsible for managing CSS email account.
@@ -76,13 +85,6 @@ The **Vice-President External** shall:
 3. Organize events that will benefit the social life of student members.
 4. Encourage society involvement in the community and on campus.
 
-The **Vice President Finance** shall:
-1. Be responsible for all society finances including possession of society bank card.
-2. Collect and keep record of voluntary membership dues.
-3. Ensure society records reflect the accurate financial position of the society at all times.
-4. Event costs shall be subject to audit by the membership.
-5. Submit an annual report detailing the society's budget for the past year.
-6. Review the financial records with members of the executive at least once a semester.
 
 The **Vice-President Societal Development** shall:
 1. Be responsible for planning and executing strategies to grow the Computer Science Society.
