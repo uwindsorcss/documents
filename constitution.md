@@ -2,20 +2,6 @@
 
 ## Constitution
 
-**Created: 2013-2014 JEREMY HIGH --- PRESIDENT**
-
-**WILL ROEDER → VICE PRESIDENT**
-
-**JOHN LAM --- TREASURER**
-
-**Revised: 2018-2019**
-
-**JOEL RORSETH --- PRESIDENT**\
-**ERIC PICKUP → VICE PRESIDENT**\
-**OKSANA NECIO --- TREASURER**
-
-## SOCIETY CONSTITUTION
-
 ### Article 1.
 
 #### Section 1 - Name
@@ -38,24 +24,28 @@ covered by part a, may purchase a membership for **$10 per semester**.
 
 ### Article 2.
 
-#### Section 1 - Executive Officers
+#### Section 1 - Positions
 
-The society's Executive Officers shall consist of the following thirteen
+##### Section 1.1 - Executive Positions
+
+The society's Executive Positions shall consist of the following thirteen
 positions:
 
 1. President
-2. Vice-President Communications
-3. Vice-President External
-4. Vice-President Academic
-5. Vice-President Finance
-6. Vice-President of Societal Development
-7. Developer
-8. Event Coordinator
-9. Event Coordinator
-10. First Year Representative
-11. Second Year Representative
-12. Senior Representative
-13. Secretary
+2. Vice President
+3. Treasureer
+
+##### Section 1.2 - Council Positions
+
+1. Vice-President External
+2. Vice-President of Societal Development
+3. Developer
+4. Event Coordinator (2)
+5. First Year Representative (2)
+6. Second Year Representative
+7. Senior Representative
+8. Secretary
+9. Vice-President Communications
 
 #### Section 2 - Term
 
