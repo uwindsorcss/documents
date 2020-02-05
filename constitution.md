@@ -60,6 +60,11 @@ The **President** shall:
 4. Submit a report to the incoming executive detailing the activities  of the previous year.
 5. Be an ex-officio member on all committees of the society.
 
+The **Vice President** shall:
+1. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
+2. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
+3. Be responsible for managing student experience heads (i.e. Head of Technology, Head of Career Services, and Head of Events).
+
 The **Vice-President Communications** shall:
 1. Be responsible for marketing any society activities and events including posting to Blackboard, CS Discord server, and Facebook Comp Sci Kool Kats. Excluding any development work.
 2. Be responsible for managing CSS email account.
@@ -70,13 +75,6 @@ The **Vice-President External** shall:
 2. Help coordinate all events and meetings.
 3. Organize events that will benefit the social life of student members.
 4. Encourage society involvement in the community and on campus.
-
-The **Vice-President Academic** shall:
-1. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
-2. Develop and implement initiatives of an academic nature to enhance the quality of education offered to all computer science students.
-3. Be responsible for the promotion of all career and educational related events including recruitment.
-3. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
-4. Be responsible for organizing and hosting the annual Internship Workshop series.
 
 The **Vice President Finance** shall:
 1. Be responsible for all society finances including possession of society bank card.
