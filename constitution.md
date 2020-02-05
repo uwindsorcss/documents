@@ -74,10 +74,10 @@ The **Treasurer** shall:
 6. Review the financial records with members of the executive at least once a semester.
 7. Be responsible for overseeing the societal development team (i.e. Head of Societal Development)
 
-The **Vice-President Communications** shall:
-1. Be responsible for marketing any society activities and events including posting to Blackboard, CS Discord server, and Facebook Comp Sci Kool Kats. Excluding any development work.
-2. Be responsible for managing CSS email account.
-3. Encourage society involvement in the community and on campus.
+The **Social Media Coordinator** shall:
+1. Be responsible for marketing any society activities and events through our social media channels (e.g. Instagram, Facebook)
+2. Be responsible for marketing other CSS/CS related items to the social media channels.
+3. Be responsible for posting photos/videos from events to social media channels including the CSS website and Discord.
 
 The **Head of Events** shall:
 1. Report to the Vice President
