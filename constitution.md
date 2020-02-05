@@ -46,6 +46,7 @@ The society's Executive Positions shall consist of the following positions:
 8. Head of Career Services
 9. First Year Representative (2)
 10. Second Year Representative
+11. Senior Representative
 
 #### Section 2 - Term
 
