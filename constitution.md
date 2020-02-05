@@ -178,26 +178,17 @@ Science students may petition the UWSA VP Administration to represent
 the Computer Science Society on a temporary basis subject to election in
 the first month of the fall semester.
 
-#### Section 2 - Removal of an Executive Officer
+#### Section 2 - Removal of Executive or Council Member
 
-In the event that an executive member is not fulfilling their
-responsibilities, the following procedure shall take place:
+In the event that a **member** is not fulfilling their responsibilities, the following procedure shall take place:
 
-The President will meet with the executive, to discuss concerns raised
-by the membership.
+1.  The **President** will meet with the **member** to discuss concerns raised by the membership.
+2. If, after one week, the **member** is still not found to be fulfilling their responsibilities, the **President** shall issue a written warning.
+3. After an additional week, if the **member** is still not found to be fulfilling their responsibilities, a meeting will be called to determine whether the individual will retain their position.
 
-After one week, if the executive member is still not found to be
-fulfilling their responsibilities, the President shall issue a written
-warning.
+_**Note:** In the event the **member** in question is the **Presedent**, the **Vice President** will conduct the above procedure._
 
-After an additional week, if the executive member is still not found to
-be fulfilling their responsibilities, a meeting will be called to
-determine whether the individual will retain their position.
-
-In the event that the executive in question is the President, the VP
-Academic will conduct the above procedure.
-
-#### Section 3 - Meeting to Remove an Executive Officer
+#### Section 3 - Meeting to Remove an Executive or Council Member
 
 An executive meeting shall be called to determine whether an executive
 will continue to hold their position.
