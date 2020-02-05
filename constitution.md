@@ -103,16 +103,17 @@ The **Head of Societal Development** shall:
 5. Be responsible for growing society presence on campus by means of marketing, social media and promoting events.
 
 The **Merchandising Coordinator** shall:
-1. Be responsible for all things related to Computer Science merchandise (e.g. sweaters).
-2. Communicate with vendors to get quotes and work with the Treasurer to secure payments for merchandise.
-3. Brainstorm ideas for merchandise and strategies related to merchandise.
-4. Host/organize any design contests with the students (e.g. sweater design contest)
+1. Report to the Head of Societal Development
+2. Be responsible for all things related to Computer Science merchandise (e.g. sweaters).
+3. Communicate with vendors to get quotes and work with the Treasurer to secure payments for merchandise.
+4. Brainstorm ideas for merchandise and strategies related to merchandise.
+5. Host/organize any design contests with the students (e.g. sweater design contest)
 
-The **Developer** shall:
-1. Be appointed via interview process, conducted by executive Computer Science Society members.
-2. Be responsible for development, debugging, implementation of changes, and maintenance of the renovated Computer Science Society website.
-3. Be responsible for creation of problems and challenges for Problem of the Week (POTW).
-4. Be responsible for the maintenance of the CS Discord channel.
+The **Head of Technology** shall:
+1. Report to the President
+2. Be appointed via interview process, conducted by executive Computer Science Society executives.
+3. Be responsible for development, debugging, implementation of changes, and maintenance of the Computer Science Society website.
+4. Be responsible for managing the Computer Science Discord including channels, bots, roles, etc.
 
 The **First Year Representative** shall:
 1. Be responsible for representing the views and concerns of first year students to the executives.
