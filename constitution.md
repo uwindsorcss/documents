@@ -95,10 +95,18 @@ The **Event Coordinator(s)** shall:
 3. Be in constant communication with the Head of Events to help arrange and organize the events, as well as organizing the payment method in an organized fashion.
 4. Be responsible for photographing or recording events to post on social media and share the photographs/videos with the Social Media Coordinator.
 
-The **Vice-President Societal Development** shall:
-1. Be responsible for planning and executing strategies to grow the Computer Science Society.
-2. Be responsible for increasing our income by means of fundraising and promotion.
-3. Be responsible for growing society presence on campus by means of marketing, social media and promoting events.
+The **Head of Societal Development** shall:
+1. Report to the Treasurer
+2. Be responsible for leading the Societal Development team (i.e. Merchandising Coordinator, Social Media Coordinator)
+3. Be responsible for planning and executing strategies to grow the Computer Science Society.
+4. Be responsible for increasing our income by means of fundraising and promotion.
+5. Be responsible for growing society presence on campus by means of marketing, social media and promoting events.
+
+The **Merchandising Coordinator** shall:
+1. Be responsible for all things related to Computer Science merchandise (e.g. sweaters).
+2. Communicate with vendors to get quotes and work with the Treasurer to secure payments for merchandise.
+3. Brainstorm ideas for merchandise and strategies related to merchandise.
+4. Host/organize any design contests with the students (e.g. sweater design contest)
 
 The **Developer** shall:
 1. Be appointed via interview process, conducted by executive Computer Science Society members.
