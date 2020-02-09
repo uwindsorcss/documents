@@ -26,6 +26,8 @@ covered by part a, may purchase a membership for **$10 per semester**.
 
 #### Section 1 - Positions
 
+![CSS Org Chart](https://i.imgur.com/SQwPZMi.png)
+
 ##### Section 1.1 - Executive Positions
 
 The society's Executive Positions shall consist of the following positions:
