@@ -122,7 +122,7 @@ The **Head of Technology** shall:
 3. Be responsible for development, debugging, implementation of changes, and maintenance of the Computer Science Society website.
 4. Be responsible for managing the Computer Science Discord including channels, bots, roles, etc.
 
-The **Head of Career Services** shall:
+The **Career Advisor** shall:
 1. Report to the Vice President
 2. Actively brainstorm workshops, ideas, tools, etc. to improve the careers of our students.
 3. Host workshops related to internships and co-op, resume workshops, etc.
