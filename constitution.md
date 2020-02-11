@@ -85,6 +85,7 @@ The **Head of Events** shall:
 2. Be responsible for brainstorming events for the benfit of the social and academic life of students.
 3. Manage the entire events team (i.e. Event Coordinators and Event Organizer) by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
 4. Be the final say in which events we will host and create polls if we want the students to decide which events they want.
+5. Be responsible for posting events on the CSS website, Discord, and email and work with the Social Media Coordinator to advertise on social media
 
 The **Event Organizer** shall:
 1. Report to the Head of Events.
