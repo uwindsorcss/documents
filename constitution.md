@@ -26,7 +26,7 @@ covered by part a, may purchase a membership for **$10 per semester**.
 
 #### Section 1 - Positions
 
-![CSS Org Chart](https://i.imgur.com/SQwPZMi.png)
+![CSS Org Chart](https://i.imgur.com/cdLIgn7.png)
 
 ##### Section 1.1 - Executive Positions
 
@@ -45,7 +45,7 @@ The society's Executive Positions shall consist of the following positions:
 5. Merchandising Coordinator
 6. Social Media Coordinator
 7. Head of Technology
-8. Head of Career Services
+8. Career Advisor
 9. First Year Representative (2)
 10. Second Year Representative
 11. Senior Representative
@@ -68,7 +68,7 @@ The **Vice President** shall:
 1. Report to the President
 2. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
 3. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
-4. Be responsible for managing student experience heads (i.e. Head of Technology, Head of Career Services, and Head of Events).
+4. Be responsible for managing student experience heads (i.e. Head of Technology, Career Advisor, and Head of Events).
 
 The **Treasurer** shall:
 1. Report to the President
