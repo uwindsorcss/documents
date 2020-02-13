@@ -82,7 +82,7 @@ The **Treasurer** shall:
 
 The **Head of Events** shall:
 1. Report to the Vice President
-2. Be responsible for brainstorming events for the benfit of the social and academic life of students.
+2. Be responsible for brainstorming events for the benefit of the social and academic life of students.
 3. Manage the entire events team (i.e. Event Coordinators and Event Organizer) by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
 4. Be the final say in which events we will host and create polls if we want the students to decide which events they want.
 5. Be responsible for posting events on the CSS website, Discord, and email and work with the Social Media Coordinator to advertise on social media
@@ -275,4 +275,4 @@ President shall be responsible for filling the vacant position, by
 appointment or election, as the President deems necessary.
 
 In the case of the resignation of the President, the position shall be
-filled by the VP Academic until the next election.
+filled by the Vice President until the next election.
