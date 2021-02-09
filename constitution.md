@@ -20,7 +20,7 @@ Society Membership shall consist of:
 University of Windsor majoring in a program offered by the department of
 Computer Science.
 2. Any student at the University of Windsor, who is not otherwise
-covered by part a, may purchase a membership for **$10 per semester**.
+covered by part a, may purchase a membership for **$20 per semester**.
 
 ### Article 2.
 
@@ -50,6 +50,7 @@ The society's Executive Positions shall consist of the following positions:
 10. Second Year Representative
 11. Senior Representative
 12. Secretary
+13. Social Media Moderators (2)
 
 #### Section 2 - Term
 
@@ -152,11 +153,17 @@ The **Secretary** shall:
 3. Be responsible for scheduling meetings by determining the best time for members, the location, and sending calendar invites.
 4. Be responsible for taking notes during meetings.
 
+The **Social Media Moderator(s)** shall:
+1. Report to the executives
+2. Be appointed via interview process, conducted by executive Computer Science Society executives.
+2. Be responsible for representing the views and concerns of the Computer Science Society.
+3. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
+
 ### Article 3.
 
 #### Section 1 - Regular Meetings
 
-Regular meetings of the society shall be held at least once per semester
+Regular meetings of the society shall be held at least once per month
 during the academic year.
 
 At least one week's notice with agenda shall be given before all
