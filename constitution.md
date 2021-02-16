@@ -20,7 +20,7 @@ Society Membership shall consist of:
 University of Windsor majoring in a program offered by the department of
 Computer Science.
 2. Any student at the University of Windsor, who is not otherwise
-covered by part a, may purchase a membership for **$10 per semester**.
+covered by part a, may purchase a membership for **$20 per semester**.
 
 ### Article 2.
 
@@ -40,7 +40,7 @@ The society's Executive Positions shall consist of the following positions:
 
 1. Head of Events
 2. Event Organizer
-3. Event Coordinator (3)
+3. Event Coordinator (4)
 4. Head of Societal Development
 5. Merchandising Coordinator
 6. Social Media Coordinator
@@ -50,6 +50,11 @@ The society's Executive Positions shall consist of the following positions:
 10. Second Year Representative
 11. Senior Representative
 12. Secretary
+
+##### Section 1.3 - Affiliate Positions
+
+1. Social Media Moderators (2 minimum)
+2. CSC Liason(s)
 
 #### Section 2 - Term
 
@@ -61,14 +66,16 @@ The **President** shall:
 1. Preside over all meetings.
 2. Represent the society in its relations with other organizations and individuals or assign a designee in his/her place.
 3. Direct the activities of the executives and council members.
-4. Submit a report to the incoming executive detailing the activities  of the previous year.
+4. Submit a report to the incoming executive detailing the activities of the previous year.
 5. Be an ex-officio member on all committees of the society.
+6. Act as a moderator on the Computer Science Discord.
 
 The **Vice President** shall:
 1. Report to the President
 2. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
 3. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
 4. Be responsible for managing student experience heads (i.e. Head of Technology, Career Advisor, and Head of Events).
+5. Act as a moderator on the Computer Science Discord.
 
 The **Treasurer** shall:
 1. Report to the President
@@ -79,6 +86,7 @@ The **Treasurer** shall:
 6. Submit an annual report detailing the society's budget for the past year.
 7. Review the financial records with members of the executive at least once a semester.
 8. Be responsible for overseeing the societal development team (i.e. Head of Societal Development)
+9. Act as a moderator on the Computer Science Discord.
 
 The **Head of Events** shall:
 1. Report to the Vice President
@@ -86,6 +94,7 @@ The **Head of Events** shall:
 3. Manage the entire events team (i.e. Event Coordinators and Event Organizer) by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
 4. Be the final say in which events we will host and create polls if we want the students to decide which events they want.
 5. Be responsible for posting events on the CSS website, Discord, and email and work with the Social Media Coordinator to advertise on social media
+6. Act as a moderator on the Computer Science Discord.
 
 The **Event Organizer** shall:
 1. Report to the Head of Events.
@@ -96,6 +105,7 @@ The **Event Coordinator(s)** shall:
 2. Be responsible for attending events and help manage the events while they are happening.
 3. Be in constant communication with the Head of Events to help arrange and organize the events, as well as organizing the payment method in an organized fashion.
 4. Be responsible for photographing or recording events to post on social media and share the photographs/videos with the Social Media Coordinator.
+5. Event Coordinators are limited to missing 2 events per semester or 4 events total per elected term before they are removed and replaced.
 
 The **Head of Societal Development** shall:
 1. Report to the Treasurer
@@ -103,6 +113,7 @@ The **Head of Societal Development** shall:
 3. Be responsible for planning and executing strategies to grow the Computer Science Society.
 4. Be responsible for increasing our income by means of fundraising and promotion.
 5. Be responsible for growing society presence on campus by means of marketing, social media and promoting events.
+6. Act as a moderator on the Computer Science Discord.
 
 The **Social Media Coordinator** shall:
 1. Report to the Head of Societal Development.
@@ -127,6 +138,8 @@ The **Career Advisor** shall:
 1. Report to the Vice President
 2. Actively brainstorm workshops, ideas, tools, etc. to improve the careers of our students.
 3. Host workshops related to internships and co-op, resume workshops, etc.
+4. Responsible for advocating awards and scholarships to students.
+5. Act as a moderator on the Computer Science Discord.
 
 The **First Year Representative(s)** shall:
 1. Report to the executives
@@ -152,15 +165,26 @@ The **Secretary** shall:
 3. Be responsible for scheduling meetings by determining the best time for members, the location, and sending calendar invites.
 4. Be responsible for taking notes during meetings.
 
+The **Social Media Moderator(s)** shall:
+1. Report to the executives
+2. Be appointed via interview process, conducted by executive Computer Science Society executives and Head of Technology.
+2. Be responsible for representing the views and concerns of the Computer Science Society.
+3. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
+
+The **CSC Liason(s)** Shall:
+1. Report to the Computer Science Society President.
+2. Be responsible for communication between the Computer Science Society and Computer Science Council.
+3. Attend Computer Science Society meetings as non-voting members.
+
 ### Article 3.
 
 #### Section 1 - Regular Meetings
 
-Regular meetings of the society shall be held at least once per semester
+Regular meetings of the society shall be held at least once per month
 during the academic year.
 
 At least one week's notice with agenda shall be given before all
-meetings. Quorum for regular meetings shall be thirteen members.
+meetings. Quorum for regular meetings shall be two-thirds of total elected members.
 
 #### Section 2 - Executive Meetings
 
@@ -171,11 +195,14 @@ meetings shall be 50% rounded up members of the Executive.
 #### Section 3 - General Meeting
 
 The general meeting of the society shall be held annually during the
-month of March, and shall include reports from the outgoing executive,
+start of the summer semester, and shall include reports from the outgoing executive,
 any committee reports, the election of executive officers, budget
 presentation, and any new or old business.
 
-At least two weeks notice with agenda shall be given before the meeting,
+General meetings shall also be held at the beginning of both the Fall and Winter semesters. The Fall meeting will consist of introductions
+and plans for the semester/year. The Winter meeting will consist of feedback/review of the previous semester, as well as plans for the current semester.
+
+At least two weeks notice with agenda shall be given before a general meeting,
 stating the time, date and place of the meeting. Quorum for general
 meetings shall be twenty-one (21) members.
 
@@ -206,9 +233,9 @@ The first year representative, and any positions not elected in the
 annual election (including positions temporarily held), shall be elected
 during the first month of the fall semester. 
 
-The elected positions shall be all positions except **Head of Technology** and **Secretary**.
+The elected positions shall be all positions except **Head of Technology**, **Social Media Moderators**, and **Secretary**.
 
-The **President** and **Vice President** positions are restricted to individuals who have held a previous position in the Computer Science Society.
+The **President** and **Vice President** positions are restricted to individuals who have held a previous position in the Computer Science Society. If no member who has previously held a position in the Computer Science Society is nominated for either of these positions, then any Computer Science student may be considered for nomination.
 
 In the event of no new executive being elected, a group of Computer
 Science students may petition the UWSA VP Administration to represent
