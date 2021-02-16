@@ -26,7 +26,7 @@ covered by part a, may purchase a membership for **$20 per semester**.
 
 #### Section 1 - Positions
 
-![CSS Org Chart](https://imgur.com/a/x0w8ogv)
+![CSS Org Chart](https://i.imgur.com/dRCTTSIh.jpg)
 
 ##### Section 1.1 - Executive Positions
 
