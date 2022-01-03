@@ -60,7 +60,7 @@ The society's Executive Positions shall consist of the following positions:
 ##### Section 1.3 - Affiliate Positions
 
 1. Social Media Moderators (2 minimum)
-2. CSC Liason(s)
+2. CSC Liaison(s)
 
 #### Section 2 - Term
 
@@ -177,7 +177,7 @@ The **Social Media Moderator(s)** shall:
 2. Be responsible for representing the views and concerns of the Computer Science Society.
 3. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
 
-The **CSC Liason(s)** Shall:
+The **CSC Liaison(s)** Shall:
 1. Report to the Computer Science Society President.
 2. Be responsible for communication between the Computer Science Society and Computer Science Council.
 3. Attend Computer Science Society meetings as non-voting members.
