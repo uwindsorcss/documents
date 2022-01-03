@@ -22,11 +22,17 @@ Computer Science.
 2. Any student at the University of Windsor, who is not otherwise
 covered by part a, may purchase a membership for **$20 per semester**.
 
+#### Section 4 - Independence
+
+The Computer Science Society is and will remain a separate, independent 
+group. To protect the interest of society members, the society shall never 
+amalgamate or be absorbed by any other student group or society (other 
+than the University of Windsor Students' Alliance).
+
 ### Article 2.
 
 #### Section 1 - Positions
-
-![CSS Org Chart](https://i.imgur.com/dRCTTSIh.jpg)
+![CSS Org Chart](./static/CSS_Hierarchy.svg)
 
 ##### Section 1.1 - Executive Positions
 
