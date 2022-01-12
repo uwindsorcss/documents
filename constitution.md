@@ -22,11 +22,17 @@ Computer Science.
 2. Any student at the University of Windsor, who is not otherwise
 covered by part a, may purchase a membership for **$20 per semester**.
 
+#### Section 4 - Independence
+
+The Computer Science Society is and will remain a separate, independent 
+group. To protect the interest of society members, the society shall never 
+amalgamate or be absorbed by any other student group or society (other 
+than the University of Windsor Students' Alliance).
+
 ### Article 2.
 
 #### Section 1 - Positions
-
-![CSS Org Chart](https://i.imgur.com/dRCTTSIh.jpg)
+![CSS Org Chart](./static/CSS_Hierarchy.svg)
 
 ##### Section 1.1 - Executive Positions
 
@@ -54,7 +60,7 @@ The society's Executive Positions shall consist of the following positions:
 ##### Section 1.3 - Affiliate Positions
 
 1. Social Media Moderators (2 minimum)
-2. CSC Liason(s)
+2. CSC Liaison(s)
 
 #### Section 2 - Term
 
@@ -171,7 +177,7 @@ The **Social Media Moderator(s)** shall:
 2. Be responsible for representing the views and concerns of the Computer Science Society.
 3. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
 
-The **CSC Liason(s)** Shall:
+The **CSC Liaison(s)** Shall:
 1. Report to the Computer Science Society President.
 2. Be responsible for communication between the Computer Science Society and Computer Science Council.
 3. Attend Computer Science Society meetings as non-voting members.
