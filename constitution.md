@@ -16,7 +16,7 @@ Science and to enhance the lives of computer science students on campus.
 #### Section 3 - Membership
 
 Society Membership shall consist of:
-1. All students who are currently enrolled on a full time basis at the
+1. All students who are currently enrolled on a full-time basis at the
 University of Windsor majoring in a program offered by the department of
 Computer Science.
 2. Any student at the University of Windsor, who is not otherwise
@@ -45,17 +45,19 @@ The society's Executive Positions shall consist of the following positions:
 ##### Section 1.2 - Council Positions
 
 1. Head of Events
-2. Event Organizer
-3. Event Coordinator (4)
-4. Head of Societal Development
-5. Merchandising Coordinator
-6. Social Media Coordinator
-7. Head of Technology
-8. Career Advisor
-9. First Year Representative (2)
-10. Second Year Representative
+2. Head of Communications
+3. Head of Technology
+4. Head of Student Affairs
+5. Event Organizer
+6. Event Coordinator (4)
+7. Merchandising Coordinator
+8. Promotions Coordinator
+9. Design Coordinator
+10. Career Advisor
 11. Senior Representative
-12. Secretary
+12. Second Year Representative
+13. First Year Representative (2)
+14. Secretary
 
 ##### Section 1.3 - Affiliate Positions
 
@@ -78,10 +80,9 @@ The **President** shall:
 
 The **Vice President** shall:
 1. Report to the President
-2. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
-3. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
-4. Be responsible for managing student experience heads (i.e. Head of Technology, Career Advisor, and Head of Events).
-5. Act as a moderator on the Computer Science Discord.
+2. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
+3. Be responsible for managing student experience heads (i.e., Head of Technology, Head of Student Affairs, and Head of Events).
+4. Act as a moderator on the Computer Science Discord.
 
 The **Treasurer** shall:
 1. Report to the President
@@ -91,16 +92,35 @@ The **Treasurer** shall:
 5. Event costs shall be subject to audit by the membership.
 6. Submit an annual report detailing the society's budget for the past year.
 7. Review the financial records with members of the executive at least once a semester.
-8. Be responsible for overseeing the societal development team (i.e. Head of Societal Development)
+8. Be responsible for overseeing the communications team (i.e., Head of Communications)
 9. Act as a moderator on the Computer Science Discord.
 
 The **Head of Events** shall:
 1. Report to the Vice President
 2. Be responsible for brainstorming events for the benefit of the social and academic life of students.
-3. Manage the entire events team (i.e. Event Coordinators and Event Organizer) by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
+3. Manage the entire events team (i.e., Event Coordinators and Event Organizer) by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
 4. Be the final say in which events we will host and create polls if we want the students to decide which events they want.
 5. Be responsible for posting events on the CSS website, Discord, and email and work with the Social Media Coordinator to advertise on social media
 6. Act as a moderator on the Computer Science Discord.
+
+The **Head of Communications** shall:
+1. Report to the Treasurer
+2. Be responsible for leading the Communications team (i.e., Merchandising Coordinator, Promotions Coordinator, Design Coordinator)
+3. Be responsible for planning and executing strategies to grow the Computer Science Society.
+4. Be responsible for increasing our income by means of fundraising and promotion.
+5. Be responsible for growing society presence on campus by means of marketing, social media and promoting events.
+6. Act as a moderator on the Computer Science Discord.
+
+The **Head of Technology** shall:
+1. Report to the President
+2. Be appointed via interview process, conducted by executive Computer Science Society executives.
+3. Be responsible for development, debugging, implementation of changes, and maintenance of the Computer Science Society website.
+4. Be responsible for managing the Computer Science Discord including channels, bots, roles, etc.
+
+The **Head of Student Affairs** shall:
+1. Report to the Vice President
+2. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
+3. Act as a moderator on the Computer Science Discord.
 
 The **Event Organizer** shall:
 1. Report to the Head of Events.
@@ -113,72 +133,62 @@ The **Event Coordinator(s)** shall:
 4. Be responsible for photographing or recording events to post on social media and share the photographs/videos with the Social Media Coordinator.
 5. Event Coordinators are limited to missing 2 events per semester or 4 events total per elected term before they are removed and replaced.
 
-The **Head of Societal Development** shall:
-1. Report to the Treasurer
-2. Be responsible for leading the Societal Development team (i.e. Merchandising Coordinator, Social Media Coordinator)
-3. Be responsible for planning and executing strategies to grow the Computer Science Society.
-4. Be responsible for increasing our income by means of fundraising and promotion.
-5. Be responsible for growing society presence on campus by means of marketing, social media and promoting events.
-6. Act as a moderator on the Computer Science Discord.
+The **Merchandising Coordinator** shall:
+1. Report to the Head of Communications
+2. Be responsible for all things related to Computer Science merchandise (e.g., sweaters).
+3. Communicate with vendors to get quotes and work with the Treasurer to secure payments for merchandise.
+4. Brainstorm ideas for merchandise and strategies related to merchandise.
+5. Host/organize any design contests with the students (e.g., sweater design contest)
 
-The **Social Media Coordinator** shall:
-1. Report to the Head of Societal Development.
-2. Be responsible for marketing any society activities and events through our social media channels (e.g. Instagram, Facebook)
+The **Promotions Coordinator** shall:
+1. Report to the Head of Communications.
+2. Be responsible for marketing any society activities and events through our social media channels (e.g., Instagram, Facebook)
 3. Be responsible for marketing other CSS/CS related items to the social media channels.
 4. Be responsible for posting photos/videos from events to social media channels including the CSS website and Discord.
 
-The **Merchandising Coordinator** shall:
-1. Report to the Head of Societal Development
-2. Be responsible for all things related to Computer Science merchandise (e.g. sweaters).
-3. Communicate with vendors to get quotes and work with the Treasurer to secure payments for merchandise.
-4. Brainstorm ideas for merchandise and strategies related to merchandise.
-5. Host/organize any design contests with the students (e.g. sweater design contest)
-
-The **Head of Technology** shall:
-1. Report to the President
-2. Be appointed via interview process, conducted by executive Computer Science Society executives.
-3. Be responsible for development, debugging, implementation of changes, and maintenance of the Computer Science Society website.
-4. Be responsible for managing the Computer Science Discord including channels, bots, roles, etc.
+The **Design Coordinator** shall:
+1. Report to the Head of Communications.
+2. Be responsible for designing all promotional materials (flyers, social media posts, etc.) related to CSS/CS.
+3. Be responsible for designing CSS merchandise, in cooperation with the Merchandising Coordinator.
 
 The **Career Advisor** shall:
-1. Report to the Vice President
+1. Report to the Head of Student Affairs
 2. Actively brainstorm workshops, ideas, tools, etc. to improve the careers of our students.
 3. Host workshops related to internships and co-op, resume workshops, etc.
 4. Responsible for advocating awards and scholarships to students.
-5. Act as a moderator on the Computer Science Discord.
-
-The **First Year Representative(s)** shall:
-1. Report to the executives
-2. Be responsible for representing the views and concerns of first year students to the executives.
-3. Be responsible for representing the executive to all first year members of the Society.
-4. Be responsible for making announcements at the beginning of first year lectures to make members aware of society events.
-
-The **Second Year Representative** shall:
-1. Report to the executives
-2. Be responsible for representing the views and concerns of second  year students to the executive.
-3. Be responsible for representing the executive to second year members of the Society.
-4. Be responsible for making announcements at the beginning of second year lectures to make members aware of society events.
 
 The **Senior Years Representative** shall:
-1. Report to the executives
-2. Be responsible for representing the views and concerns of third and  fourth year students to the executive.
+1. Report to the Head of Student Affairs
+2. Be responsible for representing the views and concerns of third- and  fourth-year students to the executive.
 3. Be responsible for representing the executive to all third and fourth year members of the Society.
-4. Be responsible for making announcements at the beginning of third and fourth year lectures to make members aware of society events.
+4. Be responsible for making announcements at the beginning of third- and fourth-year lectures to make members aware of society events.
+
+The **First Year Representative(s)** shall:
+1. Report to the Head of Student Affairs
+2. Be responsible for representing the views and concerns of first-year students to the executives.
+3. Be responsible for representing the executive to all first year members of the Society.
+4. Be responsible for making announcements at the beginning of first-year lectures to make members aware of society events.
+
+The **Second Year Representative** shall:
+1. Report to the Head of Student Affairs
+2. Be responsible for representing the views and concerns of second-year students to the executive.
+3. Be responsible for representing the executive to second year members of the Society.
+4. Be responsible for making announcements at the beginning of second-year lectures to make members aware of society events.
 
 The **Secretary** shall:
-1. Report to the executives
+1. Report to the President
 2. Be appointed by the president and ratified by the remaining executive at the first regular meeting and from the membership of the society.
 3. Be responsible for scheduling meetings by determining the best time for members, the location, and sending calendar invites.
 4. Be responsible for taking notes during meetings.
 
 The **Social Media Moderator(s)** shall:
 1. Report to the executives
-2. Be appointed via interview process, conducted by executive Computer Science Society executives and Head of Technology.
-2. Be responsible for representing the views and concerns of the Computer Science Society.
-3. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
+2. Be appointed via interview process, conducted by the Computer Science Society executives and Head of Technology.
+3. Be responsible for representing the views and concerns of the Computer Science Society.
+4. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
 
 The **CSC Liaison(s)** Shall:
-1. Report to the Computer Science Society President.
+1. Report to the President.
 2. Be responsible for communication between the Computer Science Society and Computer Science Council.
 3. Attend Computer Science Society meetings as non-voting members.
 
@@ -209,7 +219,7 @@ General meetings shall also be held at the beginning of both the Fall and Winter
 and plans for the semester/year. The Winter meeting will consist of feedback/review of the previous semester, as well as plans for the current semester.
 
 At least two weeks notice with agenda shall be given before a general meeting,
-stating the time, date and place of the meeting. Quorum for general
+stating the time, date, and place of the meeting. Quorum for general
 meetings shall be twenty-one (21) members.
 
 #### Section 4 - Additional Requirements
