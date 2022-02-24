@@ -2,7 +2,7 @@
 
 ## Constitution
 
-### Article 1.
+### Article 1
 
 #### Section 1 - Name
 
@@ -16,6 +16,7 @@ Science and to enhance the lives of computer science students on campus.
 #### Section 3 - Membership
 
 Society Membership shall consist of:
+
 1. All students who are currently enrolled on a full-time basis at the
 University of Windsor majoring in a program offered by the department of
 Computer Science.
@@ -24,14 +25,15 @@ covered by part a, may purchase a membership for **$20 per semester**.
 
 #### Section 4 - Independence
 
-The Computer Science Society is and will remain a separate, independent 
-group. To protect the interest of society members, the society shall never 
-amalgamate or be absorbed by any other student group or society (other 
+The Computer Science Society is and will remain a separate, independent
+group. To protect the interest of society members, the society shall never
+amalgamate or be absorbed by any other student group or society (other
 than the University of Windsor Students' Alliance).
 
-### Article 2.
+### Article 2
 
 #### Section 1 - Positions
+
 ![CSS Org Chart](./static/CSS_Hierarchy.svg)
 
 ##### Section 1.1 - Executive Positions
@@ -71,6 +73,7 @@ The Executive shall take office on May 1st, for a 12-month term.
 #### Duties of the Executive
 
 The **President** shall:
+
 1. Preside over all meetings.
 2. Represent the society in its relations with other organizations and individuals or assign a designee in his/her place.
 3. Direct the activities of the executives and council members.
@@ -79,120 +82,146 @@ The **President** shall:
 6. Act as a moderator on the Computer Science Discord.
 
 The **Vice President** shall:
-1. Report to the President
+
+1. Report to the President.
 2. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
 3. Be responsible for managing student experience heads (i.e., Head of Technology, Head of Student Affairs, and Head of Events).
 4. Act as a moderator on the Computer Science Discord.
 
 The **Treasurer** shall:
-1. Report to the President
+
+1. Report to the President.
 2. Be responsible for all society finances including possession of society bank card.
 3. Collect and keep record of voluntary membership dues.
 4. Ensure society records reflect the accurate financial position of the society at all times.
 5. Event costs shall be subject to audit by the membership.
 6. Submit an annual report detailing the society's budget for the past year.
 7. Review the financial records with members of the executive at least once a semester.
-8. Be responsible for overseeing the communications team (i.e., Head of Communications)
+8. Be responsible for overseeing the communications team (i.e., Head of Communications).
 9. Act as a moderator on the Computer Science Discord.
 
 The **Head of Events** shall:
-1. Report to the Vice President
+
+1. Report to the Vice President.
 2. Be responsible for brainstorming events for the benefit of the social and academic life of students.
 3. Manage the entire events team (i.e., Event Coordinators and Event Organizer) by passing information to the organizer to schedule certain events and coordinating with Event Coordinators to ensure that they are attending events.
-4. Be the final say in which events we will host and create polls if we want the students to decide which events they want.
-5. Be responsible for posting events on the CSS website, Discord, and email and work with the Social Media Coordinator to advertise on social media
-6. Act as a moderator on the Computer Science Discord.
+4. Be the final say in which events CSS will host.
+5. Create polls to allow all students to voice their opinions on what events they would like CSS to host.
+6. Be responsible for collaborating and communicating with the Head of Communications to ensure all CSS events are promoted on social media and via email.
+7. Act as a moderator on the Computer Science Discord.
 
 The **Head of Communications** shall:
-1. Report to the Treasurer
-2. Be responsible for leading the Communications team (i.e., Merchandising Coordinator, Promotions Coordinator, Design Coordinator)
+
+1. Report to the Treasurer.
+2. Be responsible for leading the Communications team (i.e., Merchandising Coordinator, Promotions Coordinator, Design Coordinator).
 3. Be responsible for planning and executing strategies to grow the Computer Science Society.
 4. Be responsible for increasing our income by means of fundraising and promotion.
 5. Be responsible for growing society presence on campus by means of marketing, social media and promoting events.
 6. Act as a moderator on the Computer Science Discord.
 
 The **Head of Technology** shall:
-1. Report to the President
-2. Be appointed via interview process, conducted by executive Computer Science Society executives.
+
+1. Report to the President.
+2. Be appointed via interview process, conducted by the Computer Science Society executives.
 3. Be responsible for development, debugging, implementation of changes, and maintenance of the Computer Science Society website.
 4. Be responsible for managing the Computer Science Discord including channels, bots, roles, etc.
+5. Act as a moderator on the Computer Science Discord.
 
 The **Head of Student Affairs** shall:
-1. Report to the Vice President
-2. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
-3. Act as a moderator on the Computer Science Discord.
+
+1. Report to the Vice President.
+2. Be responsible for leading the Student Affairs team (i.e., Career Advisor, Senior Representative, Second Year Representative, First Year Representative(s)).
+3. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
+4. Be responsible for planning and executing strategies to develop student skills.
+5. Collaborate with the Head of Events to determine events that would benefit students (i.e., workshops to prepare for interviews, co-op, teach skills, prepare for courses, etc.)
+6. Act as a moderator on the Computer Science Discord.
 
 The **Event Organizer** shall:
+
 1. Report to the Head of Events.
 2. Be responsible for communicating with venues to organize, schedule, and gather pricing events.
 
 The **Event Coordinator(s)** shall:
-1. Report to the Head of Events
+
+1. Report to the Head of Events.
 2. Be responsible for attending events and help manage the events while they are happening.
 3. Be in constant communication with the Head of Events to help arrange and organize the events, as well as organizing the payment method in an organized fashion.
-4. Be responsible for photographing or recording events to post on social media and share the photographs/videos with the Social Media Coordinator.
+4. Be responsible for photographing or recording events and share the photographs/videos with the Promotions Coordinator.
 5. Event Coordinators are limited to missing 2 events per semester or 4 events total per elected term before they are removed and replaced.
 
 The **Merchandising Coordinator** shall:
-1. Report to the Head of Communications
+
+1. Report to the Head of Communications.
 2. Be responsible for all things related to Computer Science merchandise (e.g., sweaters).
 3. Communicate with vendors to get quotes and work with the Treasurer to secure payments for merchandise.
 4. Brainstorm ideas for merchandise and strategies related to merchandise.
-5. Host/organize any design contests with the students (e.g., sweater design contest)
+5. Host/organize any design contests with the students (e.g., sweater design contest).
+6. Collaborate with the Promotions Coordinator to effectively promote all merch sales and giveaways.
+7. Collaborate with the Design Coordinator to develop designs for merchandise.
 
 The **Promotions Coordinator** shall:
+
 1. Report to the Head of Communications.
-2. Be responsible for marketing any society activities and events through our social media channels (e.g., Instagram, Facebook)
-3. Be responsible for marketing other CSS/CS related items to the social media channels.
-4. Be responsible for posting photos/videos from events to social media channels including the CSS website and Discord.
+2. Be responsible for promoting any society activities and events through all communication channels, online and offline (e.g., flyers, posters, Instagram, Facebook, Discord, email, the CSS website, etc.).
+3. Be responsible for promoting other CSS/CS related items to all communication channels.
+4. Be responsible for posting photos/videos from events to all communication channels.
 
 The **Design Coordinator** shall:
+
 1. Report to the Head of Communications.
 2. Be responsible for designing all promotional materials (flyers, social media posts, etc.) related to CSS/CS.
 3. Be responsible for designing CSS merchandise, in cooperation with the Merchandising Coordinator.
+4. Be expected to follow the CSS branding style to develop assets.
 
 The **Career Advisor** shall:
-1. Report to the Head of Student Affairs
+
+1. Report to the Head of Student Affairs.
 2. Actively brainstorm workshops, ideas, tools, etc. to improve the careers of our students.
 3. Host workshops related to internships and co-op, resume workshops, etc.
-4. Responsible for advocating awards and scholarships to students.
+4. Be responsible for advocating awards and scholarships to students.
 
-The **Senior Years Representative** shall:
-1. Report to the Head of Student Affairs
+The **Senior Representative** shall:
+
+1. Report to the Head of Student Affairs.
 2. Be responsible for representing the views and concerns of third- and  fourth-year students to the executive.
 3. Be responsible for representing the executive to all third and fourth year members of the Society.
 4. Be responsible for making announcements at the beginning of third- and fourth-year lectures to make members aware of society events.
 
-The **First Year Representative(s)** shall:
-1. Report to the Head of Student Affairs
-2. Be responsible for representing the views and concerns of first-year students to the executives.
-3. Be responsible for representing the executive to all first year members of the Society.
-4. Be responsible for making announcements at the beginning of first-year lectures to make members aware of society events.
-
 The **Second Year Representative** shall:
-1. Report to the Head of Student Affairs
+
+1. Report to the Head of Student Affairs.
 2. Be responsible for representing the views and concerns of second-year students to the executive.
 3. Be responsible for representing the executive to second year members of the Society.
 4. Be responsible for making announcements at the beginning of second-year lectures to make members aware of society events.
 
+The **First Year Representative(s)** shall:
+
+1. Report to the Head of Student Affairs.
+2. Be responsible for representing the views and concerns of first-year students to the executives.
+3. Be responsible for representing the executive to all first year members of the Society.
+4. Be responsible for making announcements at the beginning of first-year lectures to make members aware of society events.
+
 The **Secretary** shall:
-1. Report to the President
+
+1. Report to the President.
 2. Be appointed by the president and ratified by the remaining executive at the first regular meeting and from the membership of the society.
 3. Be responsible for scheduling meetings by determining the best time for members, the location, and sending calendar invites.
 4. Be responsible for taking notes during meetings.
 
 The **Social Media Moderator(s)** shall:
-1. Report to the executives
+
+1. Report to the executives.
 2. Be appointed via interview process, conducted by the Computer Science Society executives and Head of Technology.
 3. Be responsible for representing the views and concerns of the Computer Science Society.
 4. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
 
 The **CSC Liaison(s)** Shall:
+
 1. Report to the President.
 2. Be responsible for communication between the Computer Science Society and Computer Science Council.
 3. Attend Computer Science Society meetings as non-voting members.
 
-### Article 3.
+### Article 3
 
 #### Section 1 - Regular Meetings
 
@@ -234,7 +263,7 @@ The president can, with the agreement of half the executives, disregard
 requests for meetings. A further request of at least ten members can
 override this provision.
 
-### Article 4.
+### Article 4
 
 #### Section 1 - Election of Officers
 
@@ -247,9 +276,9 @@ Executive at an executive meeting.
 
 The first year representative, and any positions not elected in the
 annual election (including positions temporarily held), shall be elected
-during the first month of the fall semester. 
+during the first month of the fall semester.
 
-The elected positions shall be all positions except **Head of Technology**, **Social Media Moderators**, and **Secretary**.
+The elected positions shall be all positions except **Head of Technology**, **Secretary**, and **all affiliate positions**.
 
 The **President** and **Vice President** positions are restricted to individuals who have held a previous position in the Computer Science Society. If no member who has previously held a position in the Computer Science Society is nominated for either of these positions, then any Computer Science student may be considered for nomination.
 
@@ -258,13 +287,11 @@ Science students may petition the UWSA VP Administration to represent
 the Computer Science Society on a temporary basis subject to election in
 the first month of the fall semester.
 
-
-
 #### Section 2 - Removal of Executive or Council Member
 
 In the event that a **member** is not fulfilling their responsibilities, the following procedure shall take place:
 
-1.  The **President** will meet with the **member** to discuss concerns raised by the membership.
+1. The **President** will meet with the **member** to discuss concerns raised by the membership.
 2. If, after one week, the **member** is still not found to be fulfilling their responsibilities, the **President** shall issue a written warning.
 3. After an additional week, if the **member** is still not found to be fulfilling their responsibilities, a meeting will be called to determine whether the individual will retain their position.
 
