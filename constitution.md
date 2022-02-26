@@ -320,6 +320,8 @@ meeting, with a three-fourths majority vote.
 
 Any amendments must be announced one week prior to either meeting.
 
+Amendments that only include stylistic, grammatical, typographical, graphical, or formatting changes can be made to the constitution without a formal vote, with two-thirds approval from the Executives.  
+
 #### Section 5 - Interpretation of Bylaws
 
 These bylaws are to be interpreted by the Executive.
