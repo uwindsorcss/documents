@@ -57,8 +57,8 @@ The society's Executive Positions shall consist of the following positions:
 9. Design Coordinator
 10. Career Advisor
 11. Senior Representative
-12. Second Year Representative
-13. First Year Representative (2)
+12. Second-Year Representative
+13. First-Year Representative (2)
 14. Secretary
 
 ##### Section 1.3 - Affiliate Positions
@@ -84,7 +84,7 @@ The **President** shall:
 The **Vice President** shall:
 
 1. Report to the President.
-2. Shall act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
+2. Act in the place of the President, where conflicts prohibit the president from acting or the president is unable to act.
 3. Be responsible for managing student experience heads (i.e., Head of Technology, Head of Student Affairs, and Head of Events).
 4. Act as a moderator on the Computer Science Discord.
 
@@ -130,22 +130,22 @@ The **Head of Technology** shall:
 The **Head of Student Affairs** shall:
 
 1. Report to the Vice President.
-2. Be responsible for leading the Student Affairs team (i.e., Career Advisor, Senior Representative, Second Year Representative, First Year Representative(s)).
+2. Be responsible for leading the Student Affairs team (i.e., Career Advisor, Senior Representative, Second-Year Representative, First-Year Representative(s)).
 3. Maintain liaison between the Department of Computer Science and the Computer Science students regarding academic issues and policies.
 4. Be responsible for planning and executing strategies to develop student skills.
-5. Collaborate with the Head of Events to determine events that would benefit students (i.e., workshops to prepare for interviews, co-op, teach skills, prepare for courses, etc.)
+5. Collaborate with the Head of Events to determine events that would benefit students (e.g., workshops to prepare for interviews, co-op, teach skills, prepare for courses, etc.)
 6. Act as a moderator on the Computer Science Discord.
 
 The **Event Organizer** shall:
 
 1. Report to the Head of Events.
-2. Be responsible for communicating with venues to organize, schedule, and gather pricing events.
+2. Be responsible for communicating with venues to organize, schedule, and gather pricing for events.
 
 The **Event Coordinator(s)** shall:
 
 1. Report to the Head of Events.
 2. Be responsible for attending events and help manage the events while they are happening.
-3. Be in constant communication with the Head of Events to help arrange and organize the events, as well as organizing the payment method in an organized fashion.
+3. Be in constant communication with the Head of Events to help arrange and organize the events, as well as any necessary payments.
 4. Be responsible for photographing or recording events and share the photographs/videos with the Promotions Coordinator.
 5. Event Coordinators are limited to missing 2 events per semester or 4 events total per elected term before they are removed and replaced.
 
@@ -187,18 +187,18 @@ The **Senior Representative** shall:
 3. Be responsible for representing the executive to all third and fourth year members of the Society.
 4. Be responsible for making announcements at the beginning of third- and fourth-year lectures to make members aware of society events.
 
-The **Second Year Representative** shall:
+The **Second-Year Representative** shall:
 
 1. Report to the Head of Student Affairs.
 2. Be responsible for representing the views and concerns of second-year students to the executive.
-3. Be responsible for representing the executive to second year members of the Society.
+3. Be responsible for representing the executive to second-year members of the Society.
 4. Be responsible for making announcements at the beginning of second-year lectures to make members aware of society events.
 
-The **First Year Representative(s)** shall:
+The **First-Year Representative(s)** shall:
 
 1. Report to the Head of Student Affairs.
 2. Be responsible for representing the views and concerns of first-year students to the executives.
-3. Be responsible for representing the executive to all first year members of the Society.
+3. Be responsible for representing the executive to all first-year members of the Society.
 4. Be responsible for making announcements at the beginning of first-year lectures to make members aware of society events.
 
 The **Secretary** shall:
@@ -215,7 +215,7 @@ The **Social Media Moderator(s)** shall:
 3. Be responsible for representing the views and concerns of the Computer Science Society.
 4. Be responsible for ensuring that rules and regulations for our official social medias are upheld.
 
-The **CSC Liaison(s)** Shall:
+The **CSC Liaison(s)** shall:
 
 1. Report to the President.
 2. Be responsible for communication between the Computer Science Society and Computer Science Council.
@@ -274,7 +274,7 @@ offices filled in May. Any positions not filled in the annual election
 may be appointed on a temporary basis by a simple majority of the
 Executive at an executive meeting.
 
-The first year representative, and any positions not elected in the
+The First-Year Representative, and any positions not elected in the
 annual election (including positions temporarily held), shall be elected
 during the first month of the fall semester.
 
