@@ -280,7 +280,7 @@ during the first month of the fall semester.
 
 The elected positions shall be all positions except **Head of Technology**, **Secretary**, and **all affiliate positions**.
 
-The **President** and **Vice President** positions are restricted to individuals who have held a previous position in the Computer Science Society. If no member who has previously held a position in the Computer Science Society is nominated for either of these positions, then any Computer Science student may be considered for nomination.
+The **President**, **Vice President**, and **Treasurer** positions are restricted to individuals who have held a previous position in the Computer Science Society. If no member who has previously held a position in the Computer Science Society is nominated for either of these positions, then any Computer Science student may be considered for nomination.
 
 In the event of no new executive being elected, a group of Computer
 Science students may petition the UWSA VP Administration to represent
