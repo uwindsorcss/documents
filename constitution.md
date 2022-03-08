@@ -217,7 +217,7 @@ The **Social Media Moderator(s)** shall:
 
 The **CSC Liaison(s)** shall:
 
-1. Report to the President.
+1. Report to the Head of Student Affairs.
 2. Be responsible for communication between the Computer Science Society and Computer Science Council.
 3. Attend Computer Science Society meetings as non-voting members.
 
