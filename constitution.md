@@ -294,6 +294,7 @@ In the event that a **member** is not fulfilling their responsibilities, the fol
 1. The **President** will meet with the **member** to discuss concerns raised by the membership.
 2. If, after one week, the **member** is still not found to be fulfilling their responsibilities, the **President** shall issue a written warning.
 3. After an additional week, if the **member** is still not found to be fulfilling their responsibilities, a meeting will be called to determine whether the individual will retain their position.
+4. If the **member** is removed at such a meeting, they may appeal within a reasonable period to the CSS Board, as prescribed in Section 4.
 
 _**Note:** In the event the **member** in question is the **President**, the **Vice President** will conduct the above procedure._
 
@@ -312,6 +313,21 @@ they should continue to hold their position.
 not obtained, the individual shall retain their position.
 - No minutes shall be published for this meeting, beyond the immediate
 result.
+
+#### Section 4 - Appeals of Removals
+
+A **member** removed by the Process prescribed in Section 2 may, within a reasonable period of time prescribed by the Board but not lesser than 15 days, appeal to the Board by notice in writing or some other manner acceptable to the Board to the Secretary, or if there is no Secretary, to either the Head of Development, the Senior Representative, or any First or Second Year Representative. 
+
+If notice is so given, then the Secretary or other member who recieves such notice shall inform the President and the remainder of the Board, which shall consider the appeal at either the next Regular Meeting or at a Special Meeting convened for that purpose, at least 1 week after reciept of such notice, but no later than 3 weeks without the consent of that **member**. 
+
+- The **member** shall be invited to attend the meeting, but shall have no vote during such. 
+- Prior to such meeting, the Executive shall deliver to the Board the Minutes from the meeting to remove the member, notwithstand any seal put in place at request of the **member**.
+- During the meeting, the Board may, by simple-majority, dismiss the appeal or allow the appeal. If the appeal is dimissed, then the removal order is confirmed. If the appeal is allowed, then the Board may do any of the following at its option:
+    - Dismiss the Removal Order and reinstate the member,
+    - Affirm the Removal Order but reinstate the member notwithstanding the removal order,
+    - Reverse the Removal Order and remand to continued consideration by the Executive, with any instructions the Board sees fit to issue that the Executive _shall_ consider
+- In the case of a reinstatement without dismissal of the removal order, the Board may order the unsealing of the minutes from the meeting to remove the member, and if the unsealing is refused by the member, the Board may deny reinstatement and dismiss the appeal.
+
 
 #### Section 4 - Constitutional Amendments
 
