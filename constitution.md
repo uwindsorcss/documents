@@ -316,7 +316,7 @@ result.
 
 #### Section 4 - Appeals of Removals
 
-A **member** removed by the Process prescribed in Section 2 may, within a reasonable period of time prescribed by the Board but not lesser than 15 days, appeal to the Board by notice in writing or some other manner acceptable to the Board to the Secretary, or if there is no Secretary, to either the Head of Development, the Senior Representative, or any First or Second Year Representative. 
+A **member** removed by the Process prescribed in Section 2 may, within a reasonable period of time prescribed by the Board but not lesser than 15 days, appeal to the Board by notice in writing or some other manner acceptable to the Board to the Secretary, or if there is no Secretary, to either the Head of Technology, the Senior Representative, or any First or Second Year Representatives. 
 
 If notice is so given, then the Secretary or other member who recieves such notice shall inform the President and the remainder of the Board, which shall consider the appeal at either the next Regular Meeting or at a Special Meeting convened for that purpose, at least 1 week after reciept of such notice, but no later than 3 weeks without the consent of that **member**. 
 
