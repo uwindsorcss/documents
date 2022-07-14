@@ -321,7 +321,7 @@ Any Board or Executive Member at a Regular Meeting of CSS may call for the remov
 
 Any Member of the Society may at a General Meeting call for the removal of any Executive or Board Member, except for the CSC Liason, for the reason of a lack of confidence in that member to discharge their duties properly:
 - Such a call may be confirmed by a *three-fifths* majority of the membership of that General Meeting, provided that general meeting has quorum, or may be disposed of by a *simple-majority*.
-- If the call is neither confirmed nor disposed of during the general meeting, then the Board may call a special meeting with the person who so makes the request, and confirm or dispose of it as though a call made by a Board member at a Regular Meeting, but if the call is not confirmed during that meeting it is disposed of at its adjournment. If the Board does not call such a Special Meeting, then the call is disposed of
+- If the call is neither confirmed nor disposed of during the general meeting, then the Board may call a special meeting with the person who so makes the request, and confirm or dispose of it as though a call made by a Board member at a Regular Meeting to remove an Executive, but if the call is not confirmed during that meeting it is disposed of at its adjournment. If the Board does not call such a Special Meeting, then the call is disposed of.
 
 #### Section 5 - Constitutional Amendments
 
