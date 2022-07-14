@@ -311,11 +311,12 @@ they should continue to hold their position.
 - Quorum for the meeting shall be all of the **executives**, not including the accused.
 - If quorum is not met, or in the event that a **two-thirds vote** is
 not obtained, the individual shall retain their position.
-- At the sole request of the **member** in question, the minutes shall be sealed and shall not be published, beyond the immediate result. Such a request may be made up to the meeting, or at any point before minutes are routinely published. 
-    - The President or some other executive _shall_ inform the **member** in question of the right to seal publication of the minutes.
+- Except at the sole request of the **member** in question, the minutes shall be sealed and shall not be published, beyond the immediate result and a notice that the minutes were sealed.
+    - The President or some other executive _shall_ inform the **member** in question of the right to unseal publication of the minutes.
     - If the **member** in question is the President, then the Vice President has the responsibility to inform the President of this right.
-    - If the **member** in question shall not request the minutes be so sealed after being dutifully informed, then the minutes *shall* be published as routinely done so for Executive Meetings. The same applies of the **member** explicitly requests the minutes be published or explicitly waives the right to seal the minutes.
+    - If the **member** in question shall request the minutes not be so sealed after being dutifully informed, then the minutes *shall* be published as routinely done so for Executive Meetings.
     - The **member** in question may, for a reasonable period of time following the meeting, request or permit the minutes to be unsealed in which case they shall be published as routinely done so for Executive Meetings.
+    - The **member** in question may explicitly request the minutes be sealed, in which case, they shall be sealed just the same.
 
 
 #### Section 4 - Constitutional Amendments
