@@ -324,7 +324,7 @@ If notice is so given, then the Secretary or other member who recieves such noti
 - Prior to such meeting, the Executive shall deliver to the Board the Minutes from the meeting to remove the member, notwithstanding any seal put in place **member**.
 - During the meeting, the Board may, by simple-majority, dismiss the appeal or allow the appeal. If the appeal is dimissed, then the removal order is confirmed. If the appeal is allowed, then the Board may do any of the following at its option:
     - Dismiss the Removal Order and reinstate the member,
-    - Affirm the Removal Order but reinstate the member notwithstanding the removal order,
+    - Affirm the Removal Order but reinstate the member notwithstanding the removal order, possibly with such conditions as the Board may deem proper in the totality of the circumstances,
     - Reverse the Removal Order and remand to continued consideration by the Executive, with any instructions the Board sees fit to issue that the Executive _shall_ consider
 - In the case of a reinstatement without dismissal of the removal order, the Board may order the unsealing of the minutes from the meeting to remove the member, and if the unsealing is refused by the member, the Board may deny reinstatement and dismiss the appeal.
 
