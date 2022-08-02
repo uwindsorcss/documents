@@ -340,7 +340,7 @@ Amendments that only include stylistic, grammatical, typographical, graphical, o
 
 #### Section 5 - Interpretation of Bylaws
 
-These bylaws are to be interpreted by the Executive.
+These bylaws are to be interpreted by the Executive, except that Article 4 Section 4 shall be interpreted by the Executive as directed by the Board.
 
 #### Section 6 - Conflicts with UWSA Policy
 
