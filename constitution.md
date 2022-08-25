@@ -335,7 +335,7 @@ If notice is so given, then the Secretary or other member who recieves such noti
 - In the case of a reinstatement without dismissal of the removal order, the Board may order the unsealing of the minutes from the meeting to remove the member, and if the unsealing is refused by the member, the Board may deny reinstatement and dismiss the appeal.
 
 
-#### Section 4 - Removal at General or Regular Meeting
+#### Section 5 - Removal at General or Regular Meeting
 
 Any Board or Executive Member at a Regular Meeting of CSS may call for the removal of any Executive Member for the reason of a lack of confidence in that member to discharge the duties properly: 
 - Such a call may be confirmed by a *simple-majority* of the Board, or disposed of by the same. The member in question may have that portion of the minutes sealed under the same procedure as for ordinary removal meetings. 
@@ -345,7 +345,7 @@ Any Member of the Society may at a General Meeting call for the removal of any E
 - Such a call may be confirmed by a *three-fifths* majority of the membership of that General Meeting, provided that general meeting has quorum, or may be disposed of by a *simple-majority*.
 - If the call is neither confirmed nor disposed of during the general meeting, then the Board may call a special meeting with the person who so makes the request, and confirm or dispose of it as though a call made by a Board member at a Regular Meeting to remove an Executive, but if the call is not confirmed during that meeting it is disposed of at its adjournment. If the Board does not call such a Special Meeting, then the call is disposed of.
 
-#### Section 5 - Constitutional Amendments
+#### Section 6 - Constitutional Amendments
 
 The constitution can be amended at a regular meeting, or a general
 meeting, with a three-fourths majority vote.
@@ -354,24 +354,24 @@ Any amendments must be announced one week prior to either meeting.
 
 Amendments that only include stylistic, grammatical, typographical, graphical, or formatting changes can be made to the constitution outside of a meeting, without the need for an announcement one week prior, with a three-fourths majority vote. This vote may be electronic or in-person, as decided by the President.  
 
-#### Section 6 - Interpretation of Bylaws
+#### Section 7 - Interpretation of Bylaws
 
 These bylaws are to be interpreted by the Executive, except that Article 4 Section 4 shall be interpreted by the Executive as directed by the Board.
 
-#### Section 7 - Conflicts with UWSA Policy
+#### Section 8 - Conflicts with UWSA Policy
 
 Nothing in this instrument shall be read to contradict UWSA rules
 regarding clubs or societies. In the event where a contradiction shall
 occur, the rules of the UWSA shall have precedent.
 
-#### Section 8 - Parliamentary Authority
+#### Section 9 - Parliamentary Authority
 
 The rules contained in the current edition of Robert's Rules of Order
 Newly Revised shall govern CSS in all cases to which they are applicable
 and in which they are not inconsistent with these bylaws and any special
 rules of order CSS may adopt.
 
-#### Section 9 - Resignations
+#### Section 10 - Resignations
 
 An executive member may resign from their position by submitting a
 written notice to the Executive at least two weeks in advance. The
