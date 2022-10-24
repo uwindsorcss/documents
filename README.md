@@ -2,4 +2,4 @@
 
 ## Important Documents
 
-- [Constitution](constitution)
+- [Constitution](constitution.md)
