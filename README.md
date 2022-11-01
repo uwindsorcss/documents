@@ -4,3 +4,4 @@
 
 - [Constitution](constitution.md)
 - [Campaigning Regulations](campaigning.md)
+- [CSS Discord Rules & Regulations](discord.md)
