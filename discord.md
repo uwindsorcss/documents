@@ -35,8 +35,8 @@ If you have any questions or issues, Message anyone with the `@CSS Board Member`
 
 Remember, this is a big server and moderators can’t be everywhere. If you see something questionable, tell us.
 
-Any UWindsor student can join the server through the link: https://css.uwindsor.ca/discord 
+Any UWindsor student can join the server through the link: [https://css.uwindsor.ca/discord](https://css.uwindsor.ca/discord)
 
 ## Feedback
 
-the following form can be used for **anonymous** feedback or reporting to CSS: http://feedback.uwindsorcss.ca/
+the following form can be used for **anonymous** feedback or reporting to CSS: [http://feedback.uwindsorcss.ca/](http://feedback.uwindsorcss.ca/)
