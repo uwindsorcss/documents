@@ -1,4 +1,4 @@
-# CSS Discord Rules & Regulations
+# CSS Discord
 
 This server is a fun way to connect with your UWindsor Computer Science Classmates. Whether this is your first year or your last, if you're into coding, memes or you're trying to meet new people then this is the place for you.
 
@@ -22,3 +22,21 @@ Repeated violation of any of the above rules **in a minor way** will result in t
 4. Fourth offence: Ban from server
 
 **NOTE**: Major violations may result in more serious consequences immediately. The above course of action is only a guideline which is at the discretion of the moderators.
+
+## For New Members
+
+Please head over to `#self-roles` to give yourself a role for what year you're in and for specific events and channels. 
+
+Try out `~help` in `#bot-commands` to explain what the bot can do.
+
+## Misc.
+
+If you have any questions or issues, Message anyone with the `@CSS Board Member` role or anyone with the `@Moderator` role and it will be resolved.
+
+Remember, this is a big server and moderators can’t be everywhere. If you see something questionable, tell us.
+
+Any UWindsor student can join the server through the link: https://css.uwindsor.ca/discord 
+
+## Feedback
+
+the following form can be used for **anonymous** feedback or reporting to CSS: http://feedback.uwindsorcss.ca/
