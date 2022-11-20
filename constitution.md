@@ -58,7 +58,7 @@ The society's Executive Positions shall consist of the following positions:
 10. Career Advisor
 11. Senior Representative
 12. Second-Year Representative
-13. First-Year Representative (2)
+13. First-Year Representative (3)
 14. Secretary
 
 ##### Section 1.3 - Affiliate Positions
