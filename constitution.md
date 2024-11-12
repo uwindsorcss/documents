@@ -18,10 +18,10 @@ Science and to enhance the lives of computer science students on campus.
 Society Membership shall consist of:
 
 1. All students who are currently enrolled on a full-time basis at the
-University of Windsor majoring in a program offered by the department of
-Computer Science.
-2. Any student at the University of Windsor, who is not otherwise
-covered by part a, may purchase a membership for **$20 per semester**.
+University of Windsor majoring in an undergraduate program offered by the
+department of Computer Science.
+3. Any student at the University of Windsor, who is not otherwise
+covered by the previous point, may purchase a membership for **$20 per semester**.
 
 #### Section 4 - Independence
 
