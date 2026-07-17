@@ -177,7 +177,7 @@ The **Career Advisor** shall:
 The **Senior Representative** shall:
 
 1. Report to the Head of Student Affairs.
-2. Be responsible for representing the views and concerns of third- and  fourth-year students to the executive.
+2. Be responsible for representing the views and concerns of third-year students and fourth-year students to the executive.
 3. Be responsible for representing the executive to all third and fourth year members of the Society.
 4. Be responsible for making announcements at the beginning of third- and fourth-year lectures to make members aware of society events.
 
