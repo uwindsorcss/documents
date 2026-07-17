@@ -25,7 +25,7 @@ The Computer Science Society is and will remain a separate, independent group. T
 
 #### Section 5 - Affiliation
 
-The Computer Science Society is and will remain not an agent or representative of the UWSA and that its views and actions in no way represent those of the UWSA.
+The Computer Science Society is not an agent or representative of the UWSA, and its views and actions in no way represent those of the UWSA.
 
 ### Article 2
 
