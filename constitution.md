@@ -297,7 +297,7 @@ If notice is so given, then the Secretary or other member who receives such noti
 Any Board or Executive Member at a Regular Meeting of CSS may call for the removal of any Executive Member for the reason of a lack of confidence in that member to discharge the duties properly:
 
 - Such a call may be confirmed by a _simple-majority_ of the Board, or disposed of by the same. The member in question may have that portion of the minutes sealed under the same procedure as for ordinary removal meetings.
-- A call made during one Regular meeting need not be confirmed or dimissed during that meeting, and may be confirmed or disposed of at a later meeting.
+- A call made during one Regular meeting need not be confirmed or dismissed during that meeting, and may be confirmed or disposed of at a later meeting.
 
 Any Member of the Society may at a General Meeting call for the removal of any Executive or Board Member, except for the CSC Liaison, for the reason of a lack of confidence in that member to discharge their duties properly:
 
