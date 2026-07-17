@@ -350,21 +350,16 @@ Expenses that have not been approved in advance may not be reimbursed.
 
 To receive reimbursement, Society members must:
 
-1. Obtain approval from the Executive team before making the purchase
+1. Obtain approval from the Executive team before making the purchase.
 2. For purchases over $1000 CAD, the Society must approve the purchase as a collective entity through meeting minutes or a motion as stated in the UWSA reimbursement process.
-3. Submit a reimbursement request to the Treasurer via the appropriate channels either in person or through the community Discord
-   3.5. Inside of the reimbursement request, members must include a receipt which includes:
+3. Submit a reimbursement request to the Treasurer (or to the President or Vice President, if needed) via the appropriate channels either in person or through the community Discord.
+   a. Inside of the reimbursement request, members must include a receipt which includes: the vendor, the date of purchase, the items purchased, and the total amount paid.
 
-- The vendor
-- The date of purchase
-- The items purchased
-- The total amount paid
-
-The Treasurer shall be responsible for helping members through this process and if all requirements are met, will create a cheque requisition and have it signed along with another signing authority. If any additional approval or circumstances are required, the requests will be handled by the involved individual and the Executive team.
+The Treasurer shall be responsible for guiding members through this process. Upon verifying that all requirements are met, the Treasurer will create and submit a cheque requisition signed by themselves and another signing authority. In the event that the Treasurer is unavailable, the President or Vice President may act in their stead to process and submit the requisition. Any requests involving extenuating circumstances or requiring additional approval will be reviewed by the Executive team.
 
 #### Section 5 - Payment of Reimbursements
 
-Reimbursements shall be issued by cheque. Once a cheque request has been submitted by the Treasurer, reimbursement is typically processed within 10 business days, although processing times may vary.
+Reimbursements shall be issued by cheque. Once a cheque request has been submitted, reimbursement is typically processed within 10 business days, although processing times may vary.
 
 Once the cheque is ready, it may be picked up by the individual who incurred the approved expense or by an authorized signing authority. If a signing authority picks up a cheque on behalf of another individual, they are responsible for arranging a mutually convenient time to deliver the cheque to the intended recipient.
 
