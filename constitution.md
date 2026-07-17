@@ -338,11 +338,11 @@ The Computer Science Society's Financial Policy establishes procedures for the r
 
 #### Section 2 - Financial Authority
 
-The Treasurer shall be responsible for maintaining the Society's financial records and processing reimbursements. Furthermore the Executive team shall also be responsible for overseeing the financial procedure of the Society as needed.
+The Treasurer shall be responsible for maintaining the Society's financial records and processing reimbursements. Furthermore the Executive shall also be responsible for overseeing the financial procedure of the Society as needed.
 
 #### Section 3 - Authorized Spending
 
-Society funds shall only be used for purchases that support the Computer Science Society's mission and objectives. Members shall receive approval from at least one member of the Executive team prior to making purchases on behalf of the Society.
+Society funds shall only be used for purchases that support the Computer Science Society's mission and objectives. Members shall receive approval from at least one member of the Executive prior to making purchases on behalf of the Society.
 
 Expenses that have not been approved in advance may not be reimbursed.
 
@@ -350,12 +350,12 @@ Expenses that have not been approved in advance may not be reimbursed.
 
 To receive reimbursement, Society members must:
 
-1. Obtain approval from the Executive team before making the purchase.
+1. Obtain approval from the Executive before making the purchase.
 2. For purchases over $1000 CAD, the Society must approve the purchase as a collective entity through meeting minutes or a motion as stated in the UWSA reimbursement process.
 3. Submit a reimbursement request to the Treasurer (or to the President or Vice President, if needed) via the appropriate channels either in person or through the community Discord.
    a. Inside of the reimbursement request, members must include a receipt which includes: the vendor, the date of purchase, the items purchased, and the total amount paid.
 
-The Treasurer shall be responsible for guiding members through this process. Upon verifying that all requirements are met, the Treasurer will create and submit a cheque requisition signed by themselves and another signing authority. In the event that the Treasurer is unavailable, the President or Vice President may act in their stead to process and submit the requisition. Any requests involving extenuating circumstances or requiring additional approval will be reviewed by the Executive team.
+The Treasurer shall be responsible for guiding members through this process. Upon verifying that all requirements are met, the Treasurer will create and submit a cheque requisition signed by themselves and another signing authority. In the event that the Treasurer is unavailable, the President or Vice President may act in their stead to process and submit the requisition. Any requests involving extenuating circumstances or requiring additional approval will be reviewed by the Executive.
 
 #### Section 5 - Payment of Reimbursements
 
