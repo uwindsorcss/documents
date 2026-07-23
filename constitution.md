@@ -35,7 +35,7 @@ The Computer Science Society is not an agent or representative of the UWSA, and 
 
 ##### Section 1.1 - Executive Positions
 
-The society's Executive Positions shall consist of the following positions:
+The Society's Executive Positions shall consist of the following positions:
 
 1. President
 2. Vice President
@@ -75,14 +75,14 @@ The **President** shall:
 3. Direct the activities of the Executive and Council members.
 4. Submit a report to the incoming Executive detailing the activities of the previous year.
 5. Be an ex-officio member on all committees of the Society.
-6. Act as a moderator on the Computer Science Discord.
+6. Act as a moderator on the Computer Science Society's Discord.
 
 The **Vice President** shall:
 
 1. Report to the President.
 2. Act in the place of the President, where conflicts prohibit the President from acting or the President is unable to act.
 3. Be responsible for managing student experience heads (i.e., Head of Technology, Head of Student Affairs, and Head of Events).
-4. Act as a moderator on the Computer Science Discord.
+4. Act as a moderator on the Computer Science Society's Discord.
 
 The **Treasurer** shall:
 
@@ -94,7 +94,7 @@ The **Treasurer** shall:
 6. Submit an annual report detailing the Society's budget for the past year.
 7. Review the financial records with members of the Executive at least once a semester.
 8. Be responsible for overseeing the communications team (i.e., Head of Communications).
-9. Act as a moderator on the Computer Science Discord.
+9. Act as a moderator on the Computer Science Society's Discord.
 
 The **Head of Events** shall:
 
@@ -104,7 +104,7 @@ The **Head of Events** shall:
 4. Be the final say in which events CSS will host.
 5. Create polls to allow all students to voice their opinions on what events they would like CSS to host.
 6. Be responsible for collaborating and communicating with the Head of Communications to ensure all CSS events are promoted on social media and via email.
-7. Act as a moderator on the Computer Science Discord.
+7. Act as a moderator on the Computer Science Society's Discord.
 
 The **Head of Communications** shall:
 
@@ -113,15 +113,15 @@ The **Head of Communications** shall:
 3. Be responsible for planning and executing strategies to grow the Computer Science Society.
 4. Be responsible for increasing our income by means of fundraising and promotion.
 5. Be responsible for growing Society presence on campus by means of marketing, social media and promoting events.
-6. Act as a moderator on the Computer Science Discord.
+6. Act as a moderator on the Computer Science Society's Discord.
 
 The **Head of Technology** shall:
 
 1. Report to the President.
 2. Be appointed via interview process, conducted by the Computer Science Society Executive.
 3. Be responsible for development, debugging, implementation of changes, and maintenance of the Computer Science Society website.
-4. Be responsible for managing the Computer Science Discord including channels, bots, roles, etc.
-5. Act as a moderator on the Computer Science Discord.
+4. Be responsible for managing the Computer Science Society's Discord including channels, bots, roles, etc.
+5. Act as a moderator on the Computer Science Society's Discord.
 
 The **Head of Student Affairs** shall:
 
@@ -130,7 +130,7 @@ The **Head of Student Affairs** shall:
 3. Maintain liaison between the Department of Computer Science and the computer science students regarding academic issues and policies.
 4. Be responsible for planning and executing strategies to develop student skills.
 5. Collaborate with the Head of Events to determine events that would benefit students (e.g., workshops to prepare for interviews, co-op, teach skills, prepare for courses, etc.)
-6. Act as a moderator on the Computer Science Discord.
+6. Act as a moderator on the Computer Science Society's Discord.
 
 The **Event Coordinator(s)** shall:
 
