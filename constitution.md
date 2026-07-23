@@ -350,7 +350,7 @@ Expenses that have not been approved in advance may not be reimbursed.
 
 To receive reimbursement, Society members must:
 
-1. Obtain approval from the Executive before making the purchase.
+1. Obtain approval from an Executive before making the purchase.
 2. For purchases over $1000 CAD, the Society must approve the purchase as a collective entity through meeting minutes or a motion as stated in the UWSA reimbursement process.
 3. Submit a reimbursement request to the Treasurer (or to the President or Vice President, if needed) via the appropriate channels either in person or through the community Discord.
    a. Inside of the reimbursement request, members must include a receipt which includes: the vendor, the date of purchase, the items purchased, and the total amount paid.
